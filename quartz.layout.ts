@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -7,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/SheathedBlade/The-World-of-Luciradis",
     },
   }),
 }
@@ -27,6 +27,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Records",
+        limit: 3,
+        filter: (f) =>
+          f.slug!.startsWith("Records/") && f.slug! !== "Records/index" && !f.frontmatter?.noindex,
+        linkToMore: "Records/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
