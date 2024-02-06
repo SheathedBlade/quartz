@@ -28,8 +28,8 @@ html {
     pointer-events: none !important;
   }
 
-  .page>.page-header{
-    margin-top: 3rem;
+  .page.page-header{
+    margin-top: 3rem !important;
   }
 
   .page>#quartz-body {
