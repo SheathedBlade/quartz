@@ -28,7 +28,14 @@ html {
     pointer-events: none !important;
   }
 
+  .page>.page-header{
+    margin-top: 3rem;
+  }
+
   .page>#quartz-body {
+    & .sidebar {
+      margin-top: 3rem;
+    }
     & .sidebar.left {
       left: calc(50vw - 765px);
     }
