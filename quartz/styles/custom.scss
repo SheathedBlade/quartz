@@ -28,11 +28,10 @@ html {
     pointer-events: none !important;
   }
 
-  .page.page-header{
-    margin-top: 3rem !important;
-  }
-
   .page>#quartz-body {
+    & .page-header{
+      margin-top: 3rem !important;
+    }
     & .sidebar {
       margin-top: 3rem;
     }
