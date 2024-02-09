@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-06T01:07:45.4545-05:00
+last-modified: 2024-02-09T00:33:05.055-05:00
+description: '"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."'
 ---
 *"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."*  
 *Excerpt from 'The Musings of Fate', Luxori Covenant*
@@ -22,11 +23,11 @@ Lyntoa Village obtained its namesake from one of the first settlers of the villa
 
 
 
-## Landmarks
+## Places of Interest
 
 ### Well of Dreams
 
-The [[Well of Dreams]] is the ritualistic structure built by its first settlers, as part of a contract with them and Stalwryn Varens, the first King of [[Stalwryn Kingdom|Stalwryn]]. It is used for performing the [[Converging Terminus]] ritual, where the donor must die by throwing themselves into the well. The Well of Dreams would pluck the donor's soul from [[Stairs of Wanderlust|purgatory]] and send it to the receiving end, where the recipient would absorb the soul, curing the *Bloodied Terminus* affliction and granting the recipient the *Gift of the Realm* from the donor.
+The **Well of Dreams** is the ritualistic structure built by its first settlers, as part of a contract with them and Stalwryn Varens, the first King of [[Stalwryn Kingdom|Stalwryn]]. It is used for performing the [[Converging Terminus]] ritual, where the donor must die by throwing themselves into the well. The Well of Dreams would pluck the donor's soul from [[Stairs of Wanderlust|purgatory]] and send it to the receiving end, where the recipient would absorb the soul, curing the *Bloodied Terminus* affliction and granting the recipient the *Gift of the Realm* from the donor.
 
 > *// K.M. edit //*  
 > Since the Stargazer's 19th, 5277 ASC, when the Converging Terminus ritual was last performed, the Well of Dreams have since gone unused, in no part due to the **fall of Stalwryn** years later, rendering the structure functionally useless. This is because of the late king of Stalwryn's untimely death, where he had left no children, thus ending the Varens bloodline.
