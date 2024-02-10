@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     locale: "en-US",
     theme: {
+      cdnCaching: true,
       typography: {
         header: "Inter",
         body: "Satoshi Variable",
