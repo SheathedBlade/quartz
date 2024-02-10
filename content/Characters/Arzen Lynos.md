@@ -10,7 +10,7 @@ last-modified: 2024-02-09T03:06:10.1010-05:00
 - Race: Human
 - Date of Birth: 17th Day of the Illuminator, from the Year 5263 ASC *(17/10/5263)*
 - Date of Death: N/A
-- Place of Origin: [[Lyntoa Village]], [[Cicatri Ciel]]
+- Place of Origin: [[Lyntoa Village]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: None**
 - Height: 5'11'' / 180cm
 - Weight: 165 lbs / 74 kg

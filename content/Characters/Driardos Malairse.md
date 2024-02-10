@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:16:39.3939-04:00
+last-modified: 2024-02-10T02:05:46.4646-05:00
 ---
 *Internal Census of the Luxor Citadel*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*
@@ -10,7 +10,7 @@ last-modified: 2023-10-13T22:16:39.3939-04:00
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
 - Date of Birth:
 - Date of Death: Stargazer's 10th, 10110 ASC *(16/05/10110)*
-- Place of Origin: [[Luxor Citadel]], [[Cicatri Ciel]]
+- Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Height: 6'4'' / 193cm
 - Weight:
 - Occupation: Arcis Princeps of the [[Luxor Citadel]]
@@ -58,4 +58,4 @@ Driardos' goal is the same as it was during **the Scarring**: to gain complete a
 
 However, since the decline of the old guard, and the fall of Luxor Citadel, Driardos have developed a personal grudge against [[Arzen Lynos]] for being a persistent obstacle in his plans. Thus, all his various descendants, however far into the future, will eventually fold to Driardos to cause Ren untold suffering. From the moment of his defeat preceding the fall of Luxor Citadel, Ren and Driardos were bound by a thread of fate, destined to meet and fight again.
 
-Driardos would eventually fall back into his remnants at the **Overgrowth Incident of [[Wareylt Labs]]** in [[Terystal]], where **Ren** would acquire all the remnants of the Concepts and use up its power to create a spiritual blade capable of consigning the soul to oblivion. Driardos' overwhelming personality would never again overpower the individual, allowing the last known Avatar of the Seer, **[[Iris Riedel]]**, to regain her senses use its powers freely.
+Driardos would eventually fall back into his remnants at the **Overgrowth Incident of [[Terystal#Wareylt Labs|Wareylt Labs]]** in [[Terystal]], where **Ren** would acquire all the remnants of the Concepts and use up its power to create a spiritual blade capable of consigning the soul to oblivion. Driardos' overwhelming personality would never again overpower the individual, allowing the last known Avatar of the Seer, **[[Iris Riedel]]**, to regain her senses use its powers freely.

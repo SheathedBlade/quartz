@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:11:00.000-04:00
+last-modified: 2024-02-10T01:50:57.5757-05:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -14,7 +14,7 @@ description: Saria is the daughter of Orsilus of Arodraenix, the current draconi
 - Race: [[The Inhabitants of Luciradis#Vyrian|Vyrian]]
 - Date of Birth: 24th Day of the Matrix, from the Year 5263 ASC *(24/11/5263)*
 - Date of Death: N/A
-- Place of Origin: [[Grandiose Peaks]], [[Cicatri Ciel]]
+- Place of Origin: [[Grandiose Peaks]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: None**
 - Height: 5'10'' / 178cm, not including horns
 - Weight: 150 lbs / 68 kg (Human)
@@ -66,7 +66,7 @@ Saria is also the current Avatar of the [[Protean Concepts#The Shimmering Wings|
 
 She was found by [[Arzen Lynos]] near the outskirts of the [[Port of Anahymn]], where Ren had saved her from Arodraenix pursuers, hiding away within the human-populated port city. On Saria's account, the time they left the port city to the [[Stalwryn Kingdom]] was approximately 6 weeks, during of which the two had to gather their own food and amenities due to having no money.
 
-Upon reaching the Stalwryn Kingdom and living in many different inns, her and Ren Lynos were involved in an altercation with some of the patrolling knights. The reports say the knights expressed extreme discomfort and prejudice towards Saria and her unknown origins, while Ren Lynos defended her and assaulted the knights. Normally, this would incur massive penalties, but through the good graces of King [[Leoris Varens]], not only were Saria and Ren spared, but they were also given financial support personally funded by the king. Using this support, they would buy a property within the walls of the Stalwryn Kingdom and build up a popular eatery called **"The Campfire"**.
+Upon reaching the Stalwryn Kingdom and living in many different inns, her and Ren Lynos were involved in an altercation with some of the patrolling knights. The reports say the knights expressed extreme discomfort and prejudice towards Saria and her unknown origins, while Ren Lynos defended her and assaulted the knights. Normally, this would incur massive penalties, but through the good graces of King [[Leoris Varens]], not only were Saria and Ren spared, but they were also given financial support personally funded by the king. Using this support, they would buy a property within the walls of the Stalwryn Kingdom and build up a popular eatery called **[[Stalwryn Kingdom#The Campfire|"The Campfire"]]**.
 
 Feeling that they owed King Varens for turning their lives around, Saria and Ren both applied to be knights. Through her precise and aggressive spear combat, Saria quickly rose through the ranks to become **the leader** of the vanguard unit.
 

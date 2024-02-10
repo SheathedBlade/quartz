@@ -33,3 +33,26 @@ All conventional magic draw power from the foundations of Luciradis, which we re
 ### Root of Water
 
 ### Root of Fire
+
+
+## Geography
+### Cicatri Ciel
+
+Cicatri Ciel describes the group of landmasses located in the northern hemisphere of Luciradis.
+
+#### Etymology
+
+**Cicatri Ciel** roughly translates to *"Scarred Sky"* in ancient tongues. This name was conceived after the catastrophic event known as *The Scarring*, where a war between god-like beings have sundered the once-whole landmass apart.
+
+#### History
+
+### Nova Ciel
+
+Nova Ciel is the name of the group of landmasses in the southern hemisphere.
+#### Etymology
+
+**Nova Ciel** roughly translates to *"New Sky"*. While it is not conceived from ancient tongues, the people opted to follow the naming convention that our ancestors of *Cicatri Ciel* used, in which it describes the skies above the land following the sentiments of its peoples. The early pioneers of *Cicatri Ciel* fled from the war-torn lands, and arrived on *Nova Ciel* with the intent of starting anew.
+
+The landmass itself did not have a formal name before the arrival of the Cicatri emigrants.
+
+#### History

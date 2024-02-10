@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:13:45.4545-04:00
+last-modified: 2024-02-10T02:06:18.1818-05:00
 ---
 *Internal Census of the Stalwryn Kingdom*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*
@@ -10,8 +10,8 @@ last-modified: 2023-10-13T22:13:45.4545-04:00
 - Race: Feline [[The Inhabitants of Luciradis#Terrakin|Terrakin]]
 - Date of Birth: 24th Day of the Matrix, from the Year 5268 ASC *(24/11/5268)*
 - Date of Death: N/A
-- Place of Origin: [[Stalwryn Kingdom]], [[Cicatri Ciel]]
-- Allegiance: [[Cerelicia]], [[Nova Ciel]]
+- Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance: [[Cerelicia]], [[Luciradis#Nova Ciel|Nova Ciel]]
 - Height: 
 - Weight: 
 - Occupation: Head Archivist of [[Oracle's Vision]]

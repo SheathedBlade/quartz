@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:12:41.4141-04:00
+last-modified: 2024-02-10T03:03:30.3030-05:00
 ---
 *Internal Census of Terystal*
 ## Basic Info
@@ -9,11 +9,11 @@ last-modified: 2023-10-13T22:12:41.4141-04:00
 - Race: Akumari
 - Date of Birth: Paragon's 8th, 10092 ASC *(08/03/10092)*
 - Date of Death: N/A
-- Place of Origin: [[Terystal]], [[Nova Ciel]]
-- Allegiance: [[Terystal]], [[Nova Ciel]]
+- Place of Origin: [[Terystal]], [[Luciradis#Nova Ciel|Nova Ciel]]
+- Allegiance: [[Terystal]], [[Luciradis#Nova Ciel|Nova Ciel]]
 - Height: 5'6'' / 167cm
 - Weight:
-- Occupation: Sophomore at [[Gryffes Institute]]
+- Occupation: Sophomore at [[Terystal#Gryffes Institute of War and Medicine|Gryffes Institute]]
 - Relationships:
 	- [[Arzen Lynos]]: Mentor
 	- [[Elliot Ridge]]: Professor

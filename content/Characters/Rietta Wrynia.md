@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:13:26.2626-04:00
+last-modified: 2024-02-10T03:05:59.5959-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -11,16 +11,16 @@ description: Rietta is an elf born into a family of merchants, a rare occupation
 - Race: [[The Inhabitants of Luciradis#Elf|Elf]]**
 - Date of Birth: 14th Day of the Creator, from the Year 5264 ASC *(14/1/5264)*
 - Date of Death: N/A
-- Place of Origin: [[Lyntoa Village]], [[Cicatri Ciel]]
-- Allegiance: [[Terystal]], [[Nova Ciel]]***
+- Place of Origin: [[Lyntoa Village]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance: [[Terystal]], [[Luciradis#Nova Ciel|Nova Ciel]]***
 - Height: 5'7'' / 170cm
 - Weight: 145 lbs / 66 kg
-- Occupation: Director of Research & Development at [[Wareylt Labs]], Alchemist
+- Occupation: Director of Research & Development at [[Terystal#Wareylt Labs|Wareylt Labs]], Alchemist
 - Relationships:
 	- [[Arzen Lynos]]: Childhood Friend
 	- [[Saria Pulse]]: Friend
 	- [[Kallie Myrai]]: Friend
-	- [[Lily Wareylt]]: Employer at [[Wareylt Labs]]
+	- [[Lily Wareylt]]: Employer at [[Terystal#Wareylt Labs|Wareylt Labs]]
 	- [[Iris Riedel]]: Friend
 
 _* -  Stalwryn's internal census was conducted when she was 18 years_  

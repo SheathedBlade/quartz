@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-09-22T12:08:24.2424-04:00
+last-modified: 2024-02-10T02:07:04.044-05:00
 ---
 _Internal Census of the Stalwryn Kingdom_  
 *Edited by the Independent Journal of Historians of Nova Ciel*
@@ -10,8 +10,8 @@ _Internal Census of the Stalwryn Kingdom_
 - Race: Human
 - Date of Birth: 1st Day of the Deceiver, from the Year 5210 ASC *(01/07/5210)*
 - Date of Death: 30th Day of the Navigator, from the Year 5284 ASC *(30/08/5284)*
-- Place of Origin: [[Stalwryn Kingdom]], [[Cicatri Ciel]]
-- Allegiance: [[Stalwryn Kingdom]], [[Cicatri Ciel]]
+- Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Height: 6'1''
 - Weight:
 - Occupation: Monarch of the Stalwryn Kingdom

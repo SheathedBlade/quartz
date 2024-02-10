@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-08T01:53:35.3535-05:00
+last-modified: 2024-02-10T01:51:03.033-05:00
 ---
 Placeholder
 
@@ -10,3 +10,4 @@ Placeholder
 ## History
 
 ## Places of Interest
+### The Campfire
