@@ -15,9 +15,6 @@ html {
 
   --quote-color: var(--green);
 
-  hyphens: none !important;
-  -webkit-hyphens: none !important;
-
   body::-webkit-scrollbar, ul.overflow::-webkit-scrollbar {
     width: 10px;
     background-color: #aaa; 
@@ -29,6 +26,11 @@ html {
 
   img {
     pointer-events: none !important;
+  }
+
+  p {
+    hyphens: none !important;
+    -webkit-hyphens: none !important;
   }
 
   .page>#quartz-body {
