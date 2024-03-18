@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T02:05:27.2727-05:00
+last-modified: 2024-02-21T02:03:43.4343-05:00
 ---
 *Internal Census of the Luxor Citadel*  
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
@@ -43,6 +43,10 @@ _** - Her previous occupation was as a Beacon of the [[The Luxori Covenant|Luxor
 |            Convergence | <progress value="70" max="100"></progress>  |
 
 ## Background
+
+*"Isn't it the case that we want future generations to have better lives than those of their predecessors? Then, what I have done is simple, really. I strive for a future wherein those who come after us would put surviving as an afterthought. The path I have chosen to take would always be paved in ruin and tragedy.*
+
+*My only regret is that you have chosen to shoulder my legacy as your burden. But, if you would consider all that I have done, for you or otherwise, sins, then I'll gladly be a sinner."*
 
 Amara Illustros, previously Sister Amara Illustros, is an exiled traveling **beacon** of the [[The Luxori Covenant|Luxori Covenant]], the prominent religious group of the [[Luxor Citadel]]. The nature of how she was exiled, however, is unbeknownst to us, as the Covenant refused to comment further on this topic. Thus, out of respect, only those of us in the know are aware of her existence and subsequent status of the Covenant.
 
