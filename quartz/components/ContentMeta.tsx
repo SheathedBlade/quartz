@@ -9,10 +9,12 @@ interface ContentMetaOptions {
    * Whether to display reading time
    */
   showReadingTime: boolean
+  showComma: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
+  showComma: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
