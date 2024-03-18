@@ -53,10 +53,10 @@ html {
   }
 
   .sidebar.right {
-    & .backlinks > ul.overflow {
+    & .backlinks ul.overflow {
       max-height: 200px !important;
     }
-    & .toc > ul.overflow {
+    & .toc.desktop-only #toc-content > ul.overflow {
       max-height: 250px !important;
     }
   }
