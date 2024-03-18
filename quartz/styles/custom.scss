@@ -52,8 +52,13 @@ html {
     border-bottom: 2px solid #404040 !important;
   }
 
-  .backlinks > ul.overflow {
-    max-height: 200px !important;
+  .sidebar.right {
+    & .backlinks > ul.overflow {
+      max-height: 200px !important;
+    }
+    & .toc > ul.overflow {
+      max-height: 250px !important;
+    }
   }
 
   &[saved-theme="light"] {
