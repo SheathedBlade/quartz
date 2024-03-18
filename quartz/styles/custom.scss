@@ -52,6 +52,10 @@ html {
     border-bottom: 2px solid #404040 !important;
   }
 
+  .backlinks > ul.overflow {
+    max-height: 200px !important;
+  }
+
   &[saved-theme="light"] {
     div#search-icon > p {
       color: #414141 !important;
