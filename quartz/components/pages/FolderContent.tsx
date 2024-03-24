@@ -1,12 +1,12 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import path from "path"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
-import style from "../styles/listPage.scss"
-import { PageList } from "../PageList"
-import { stripSlashes, simplifySlug } from "../../util/path"
 import { Root } from "hast"
-import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
+import { htmlToJsx } from "../../util/jsx"
+import { simplifySlug, stripSlashes } from "../../util/path"
+import { PageList } from "../PageList"
+import style from "../styles/listPage.scss"
 
 interface FolderContentOptions {
   /**
@@ -16,7 +16,7 @@ interface FolderContentOptions {
 }
 
 const defaultOptions: FolderContentOptions = {
-  showFolderCount: true,
+  showFolderCount: false,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
