@@ -48,7 +48,7 @@ html {
     }
     & .center {
       & .page-listing div.section {
-        grid-template-columns: 7em, 3fr, 1fr !important;
+        grid-template-columns: 7em 3fr 1fr !important;
       }
     }
   }
