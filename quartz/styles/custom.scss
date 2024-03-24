@@ -46,6 +46,11 @@ html {
     & .sidebar.right {
       right: calc(50vw - 765px);
     }
+    & .center {
+      & .page-listing div.section {
+        grid-template-columns: 7em, 3fr, 1fr !important;
+      }
+    }
   }
 
   div.center h2 {
