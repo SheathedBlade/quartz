@@ -1,12 +1,12 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T01:50:57.5757-05:00
+last-modified: 2024-04-10T20:53:01.011-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 ---
 *Internal Census of the Stalwryn Kingdom*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*  
 
-![[vanguard.png]]
+![[vanguard.webp]]
 *Credit: @ibaraki_shun*
 ## Basic Info
 - Age: 4,847 years*
@@ -80,7 +80,7 @@ Curiously, Saria chose not to input her family's name as her last name. When fil
 
 ## Appearance
 
-![[saria-refsheet.png]]
+![[saria-refsheet.webp]]
 *Credit: @8Ovjfg8YRwM7qXz*  
 
 Saria, as a daughter to the dragons, has very noticeable draconic features, including her pitch-black scales covering small portions of her pale skin. In addition, black horns protrude from the top of her head, with a tail reaching the length of her legs. Despite this, however, she takes on a human-dominated appearance. Saria has long, flowing platinum blonde hair with natural red highlights, along with teal eyes.
