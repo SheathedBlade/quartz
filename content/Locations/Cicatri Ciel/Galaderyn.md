@@ -1,9 +1,9 @@
 ---
 date: 2024-05-22T17:24:20.2020-04:00
-last-modified: 2024-05-22T18:08:46.4646-04:00
+last-modified: 2024-05-22T18:36:50.5050-04:00
 description: '"It is as if the trees bowed together, shielding the drifters from the oncoming destruction. It is only under its protection that the drifters would make their first home."'
 ---
-*It is as if the trees bowed together, shielding the drifters from the oncoming destruction. It is only under its protection that the drifters would make their first home.*
+*It is as if the trees bowed together, shielding the drifters from the oncoming destruction. It is only under its protection that the drifters would make their first home.*  
 *Excerpt from 'Guidance of the Prismaia', Ferros Republic*
 
 ---
