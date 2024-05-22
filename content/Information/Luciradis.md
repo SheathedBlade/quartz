@@ -38,7 +38,7 @@ All conventional magic draw power from the foundations of Luciradis, which we re
 ## Geography
 ### Cicatri Ciel
 
-Cicatri Ciel describes the group of landmasses located in the northern hemisphere of Luciradis.
+Cicatri Ciel describes the group of landmasses located in the northern hemisphere of Luciradis. Said to be the birthplace of Luciradis, Cicatri Ciel is home to various unique biomes, all which foster different kinds of life. 
 
 #### Etymology
 
