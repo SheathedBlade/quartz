@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T03:05:59.5959-05:00
+last-modified: 2024-05-22T18:23:14.1414-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -51,7 +51,7 @@ _*** - Her previous allegiance was to the_ [[Stalwryn Kingdom]]
 
 *Every time I take to the road, I think about what's waiting for me when I arrive at my destination. Metaphorically, of course. Because as much as I'd like to enjoy the journey, not knowing what awaits me at the end scares me."*
 
-Rietta was born into a family of merchants, a rare occupation for elves, but necessary nonetheless to facilitate trade inside and out of the isolated [[Ferros Republic]]. At the time of her birth, her parents were settled in the territory of the [[Stalwryn Kingdom]], specifically in the small village of [[Lyntoa Village|Lyntoa]]. She grew up as a mischievous child, always getting involved with antics with the other children in the village, much to the dismay of the elders.
+Rietta was born into a family of merchants, a rare occupation for elves, but necessary nonetheless to facilitate trade inside and out of the isolated haven of [[Galaderyn]]. At the time of her birth, her parents were settled in the territory of the [[Stalwryn Kingdom]], specifically in the small village of [[Lyntoa Village|Lyntoa]]. She grew up as a mischievous child, always getting involved with antics with the other children in the village, much to the dismay of the elders.
 
 At the age of 14, Rietta and her parents temporarily relocated from Lyntoa Village to the Stalwryn Kingdom proper. It is during her stay inside the walls of the Stalwryn Kingdom that she developed a passion for not only business, but also alchemy. In her free time, Rietta likes to stay at the local apothecary, where individuals blessed with the powers of the [[Protean Concepts#The Convergence|Convergence]] do their best work. Here, she became an apprentice to an alchemist, seeking to indulge in her passion. Because of the nature of the craftsmanship of standard-issue Stalwryn weaponry and armor, the apothecary and the forge often worked together, which meant Rietta often had access to both facilities.
 
@@ -60,7 +60,7 @@ At the end of her apprenticeship, as a token to herself, Rietta commissioned the
 >*// K.M. edit //*  
 >What Rietta had received is a weapon that is now known as a **semi-automatic rifle** in Nova Ciel. There are compartments in which she can insert containers filled with alchemical solutions, which allows her to fire bullets infused with the solutions to inflict various effects on her target.
 
-It is also at this time where our physicians have confirmed the **protean essence** of Rietta, confirming her status as an Avatar of the [[Protean Concepts#The Navigator|Navigator]]. For personal reasons, Rietta's parents requested this information be private until they, as a family, arrive back to the Ferros Republic. It is understandable, however, given the structure of society within the Republic. The class structure allows for those who are officially identified as Avatars of the Navigator to be instantly given the status of **sovereign elves**. It would be a boon for this family, as they started out as **industrious elves**. As such, the quality of life afforded to sovereign elves would immensely help the family in terms of financial status and influence as merchants.
+It is also at this time where our physicians have confirmed the **protean essence** of Rietta, confirming her status as an Avatar of the [[Protean Concepts#The Navigator|Navigator]]. For personal reasons, Rietta's parents requested this information be private until they, as a family, arrive back to Galaderyn. It is understandable, however, given the structure of society within the Republic. The class structure allows for those who are officially identified as Avatars of the Navigator to be instantly given the status of **sovereign elves**. It would be a boon for this family, as they started out as **industrious elves**. As such, the quality of life afforded to sovereign elves would immensely help the family in terms of financial status and influence as merchants.
 ## Appearance
 
 Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be D/E (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.
@@ -83,7 +83,7 @@ When it comes down to business, however, Rietta is very crafty and cunning, hone
 >*// K.M. edit //*  
 >Since the fall of Stalwryn to the Cicatri Emigration, Rietta still appeared as a friendly, naïve person that everyone recognized. But it's clear to anyone looking hard enough that she's using this as a front to hide her loneliness and depression of having lost those close to her in war. She rarely confided with anyone, not even those of whom she knew from centuries ago.
 >
->Since [[Arzen Lynos|Ren's]] arrival to Terystal, and the subsequent [[Overgrowth Incident]], Rietta no longer hides her sadness with a mask of happiness, and lets her feelings come through to the forefront. It's almost as if life had refilled her body with renewed vigor. Rietta became more relaxed, opting to hang out with [[Iris Riedel]] and enjoying her life to the fullest.
+>Since [[Arzen Lynos|Arzen's]] arrival to Terystal, and the subsequent [[Overgrowth Incident]], Rietta no longer hides her sadness with a mask of happiness, and lets her feelings come through to the forefront. It's almost as if life had refilled her body with renewed vigor. Rietta became more relaxed, opting to hang out with [[Iris Riedel]] and enjoying her life to the fullest.
 
 ### Likes
 
@@ -107,7 +107,7 @@ When it comes down to business, however, Rietta is very crafty and cunning, hone
 
 ### Magical Combat
 
-Rietta is very proficient at the manipulation of water, a trait an Avatar of the Navigator would surely possess. To further enhance her concentration of her invocations, she wields a custom-made staff from the [[Ferros Republic]], the domain of the elves. The below are some of her most notable invocations:
+Rietta is very proficient at the manipulation of water, a trait an Avatar of the Navigator would surely possess. To further enhance her concentration of her invocations, she wields a custom-made staff, gifted from the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The below are some of her most notable invocations:
 #### Scalding Flood
 This spell combines the effects of the basic "Create: Fire" and "Create: Water" invocations and improves upon it, shooting out a flood of scalding brine water, burning the target in the process. Using this spell in particular is decently draining on the average user, but comes as naturally as breathing for Avatars of the Navigator.
 

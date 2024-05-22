@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-04-10T20:53:01.011-04:00
+last-modified: 2024-05-22T18:26:28.2828-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -22,13 +22,13 @@ description: Saria is the daughter of Orsilus of Arodraenix, the current draconi
 - Relationships:
   - [[Arzen Lynos]]: Significant other
   - [[Kallie Myrai]]: Friend
-  - [[The Brood of Arodraenix|Orsilus of Arodraenix]]: Father
+  - [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]]: Father
   - [[Leoris Varens]]: Former employer of the Stalwryn Royal Guard
   - [[Erina Hayashi]]: Friend
   - [[Rietta Wrynia]]: Friend
 
 _* -  Stalwryn's internal census was conducted when she was 19 years_  
-_** - Her previous allegiances were to_ [[The Brood of Arodraenix|the Brood of Arodraenix]] _and the_ [[Stalwryn Kingdom]]  
+_** - Her previous allegiances were to_ [[Factions of Luciradis#Brood of Arodraenix|the Brood of Arodraenix]] _and the_ [[Stalwryn Kingdom]]  
 _*** - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_  
 
 ## Protean Essence
@@ -53,7 +53,7 @@ _*** - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_
 
 *"'To taste freedom, spread your wings', is an ancient draconic proverb that I still believe applies to all life on Luciradis. To not be constrained by feelings of doubt and suffering. To not have your metaphorical wings be bound by those who seek to keep you grounded. To not let burdens hold you back from what you need to do. And should they need help, I'll pull them up, no matter how heavy their burdens are."*
 
-Saria is the daughter of [[The Brood of Arodraenix|Orsilus of Arodraenix]], the current draconic ruler of the skies taking root in the [[Grandiose Peaks]], and an unknown female human. Saria's mother still eludes us, however recent investigations confirmed her allegiance to the [[Azamuku Domain]], as there were reports of a dragon descending onto the [[Amber Clifftops]] multiple times. Regardless, hers and Orsilus's eloping birthed the first draconic half-breed in known existence.
+Saria is the daughter of [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]], the current draconic ruler of the skies taking root in the [[Grandiose Peaks]], and an unknown female human. Saria's mother still eludes us, however recent investigations confirmed her allegiance to the [[Azamuku Domain]], as there were reports of a dragon descending onto the [[Amber Clifftops]] multiple times. Regardless, hers and Orsilus's eloping birthed the first draconic half-breed in known existence.
 
 >*// K.M. edit //*  
 >As one might know, the draconic race are long-lived beings; where we, as humans, live for 100 years, the dragons may live for up to multiple millennia. In addition, despite of how ingrained the dragons are in our world, the aforementioned race is not of Luciradis, but from beyond the skies.

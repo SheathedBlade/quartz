@@ -9,6 +9,9 @@ last-modified: 2024-02-09T14:48:38.3838-05:00
 
 ---
 ## Wood
+### Prismaia Tree
+
+Prismaia trees are a rare, but naturally occuring species characterized by its prismatic and golden leaves, silver bark, and towering heights. 
 
 ## Stone
 ### Obsidian

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T02:07:51.5151-05:00
+last-modified: 2024-05-22T18:20:33.3333-04:00
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
 
@@ -22,13 +22,13 @@ The akumaros have a natural affinity to cold weather, their skin having been evo
 
 The elves are respecters of the natural order of Luciradis. Overly concerned with the maintenance of nature, the elves are inherently born with the ability to *"hear"* nature, and are only second to the [[The Inhabitants of Luciradis#Terrakin|Terrakin]] when it comes to utilizing invocations that draw power directly from the **Root of Earth**.
 
-The elves are an introverted race, tending to keep to themselves in most public affairs. The majority of the elven population lies in the [[Ferros Republic]], a haven for elves situated in a dense forest between two large rivers. Only a few groups of elves venture outside the Republic, though it is made difficult to do so due to the intervention of the ruling sovereigns.
+The elves are an introverted race, tending to keep to themselves in most public affairs. The majority of the elven population lies in [[Galaderyn]], a haven for elves situated in a dense prismaia forest on top of a mana-imbued lake. Only a few groups of elves venture outside of the haven, though it is made difficult to do so due to the intervention of the ruling sovereigns.
 
 The society of the elves in the Ferros Republic can be broken down as thus: the **sovereign elves**, the **industrious elves**, and the **drifting elves**. These monikers are usually tied to the particular family of elves, making it difficult for elves to grow out of their titles. In rare circumstances, however, the status of an elf in the Ferros Republic can change with approval of the ruling sovereign elves.
 
 > It is important to note that these are just titles given to elves. There are no physical/visual differences between the classes of elves in the Ferros Republic.
 
-For elves that exist outside the Ferros Republic, these titles rarely matter to them, as it reeks of rigidity and tradition. Those that leave the Republic rarely ever are allowed back in, so elves that do leave take up residence in other nations.
+For elves that exist outside the allegiance of the Ferros Republic, these titles rarely matter to them, as it reeks of rigidity and tradition. Those that leave the Republic rarely ever are allowed back in, so elves that do leave take up residence in other nations.
 
 ### Sovereign Elf
 
@@ -39,10 +39,10 @@ The title of sovereign elf is a bit flexible, as the ruling party of sovereign e
 
 An industrious elf is equivalent to a working class individual. They are not as well-read or educated as a sovereign elf, but they are needed for society to function at its core. Occupations such as smiths, farmers, and crafters are some of the many roles that industrious elves partake in.
 
-Although the elves are discouraged from leaving the Republic, the sovereign elves have deemed **merchants** as a necessary occupation in order to maintain the Republic's economy. Therefore, only a very small subset of industrious elves become merchants and they are allowed to come in and out of the Republic with official travel documentation.
+Although the elves are discouraged from leaving Galaderyn, the sovereign elves have deemed **merchants** as a necessary occupation in order to maintain the Republic's economy. Therefore, only a very small subset of industrious elves become merchants and they are allowed to come in and out of the Republic with official travel documentation.
 ### Drifting Elf
 
-Drifting elves are, for a lack of a better term, exiled from the Ferros Republic. Despite the seemingly serious nature of this title, it simply refers to any elf that leaves the Republic for any unofficial reason. Given that it is very difficult for anyone to enter or leave the Republic, the title is quite fitting, as drifting elves have no place or purpose in the Republic's society. The sovereign elves don't necessarily keep track of who is a drifting elf, but guards at the gate will turn away any elf that tries to re-enter the Republic without official authority of the sovereign elves.
+Drifting elves are, for a lack of a better term, exiled from the Ferros Republic. Despite the seemingly serious nature of this title, it simply refers to any elf that leaves Galaderyn, or gave up allegiance, for any unofficial reason. Given that it is very difficult for anyone to enter or leave the Republic, the title is quite fitting, as drifting elves have no place or purpose in the Republic's society. The sovereign elves don't necessarily keep track of who is a drifting elf, but guards at the gate will turn away any elf that tries to re-enter Galaderyn without official authority of the sovereign elves.
 
 ## Human
 

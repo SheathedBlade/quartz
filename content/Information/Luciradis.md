@@ -34,6 +34,8 @@ All conventional magic draw power from the foundations of Luciradis, which we re
 
 ### Root of Fire
 
+### Root of Wind
+
 
 ## Geography
 ### Cicatri Ciel

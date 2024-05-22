@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2023-10-13T22:13:07.077-04:00
+last-modified: 2024-05-22T18:27:00.000-04:00
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
 
@@ -26,12 +26,12 @@ Not much is known about the Creator, save for a few faded texts and legends. The
 The last texts that our scholars have translated dealt with the aftermath of the Scarring and the subsequent disappearance of the Creator. While all the other Concepts were reduced to their very essence, the Creator was kept whole, and moved to becoming the Guardian Gatekeeper of the [[Stairs of Wanderlust]]. As the Guardian, however, its role was to only observe, and so newly-departed souls would never know of its existence.
 
 ## The Shimmering Wings
-**Previous Avatar:** [[The Brood of Arodraenix|Orsilus of Arodraenix]]  
+**Previous Avatar:** [[Factions of Luciradis#Brood of Arodraenix|Orsilus of Arodraenix]]  
 **Current Avatar:** [[Saria Pulse]]
 
 The Shimmering Wings refer to the ancient dragon of legend, Arodraenix, during **the Scarring**, and is known for its heightened primal senses. The most notable aspect of this is the ability to keenly hear the beats of the heart. In addition to this, the Shimmering Wings is known to effortlessly rally all the beasts of the land and sea to their side. During the Scarring, this power proved very useful in not only the defense of its territory, but also the conquest of lands beyond its own. It's aptly named as such from the vivid drawings from ancient texts, giving the wings a vibrant amethyst color alongside the blindingly white scales of the dragon.
 
-Its descendants bear the power of the Shimmering Wings, giving priority to the [[The Brood of Arodraenix|new breed of dragons]] that emerged unscathed from the Scarring. Therefore, it is highly unlikely, if not impossible, that non-draconic being should be able to have any essence of the Shimmering Wings.
+Its descendants bear the power of the Shimmering Wings, giving priority to the [[Factions of Luciradis#Brood of Arodraenix|new breed of dragons]] that emerged unscathed from the Scarring. Therefore, it is highly unlikely, if not impossible, that non-draconic being should be able to have any essence of the Shimmering Wings.
 
 ## The Paragon
 **Previous Avatar:** [[Leoris Varens]]  
@@ -78,9 +78,9 @@ The first Avatar would appear in the land that would become the [[Azamuku Domain
 
 The first records of the Navigator were discovered through the ramblings of sailors, speaking of a person that could only be described as a natural compass. It was able to guide ships to their destinations without fail, and without duels with the unpleasant seas. Thus, this person was given the title of the Navigator.
 
-The Navigator is most known for their masterful control over elements of nature. In the ancient texts, it is said that the Navigator is directly responsible for the thriving [[Ferros Republic|elven republic]], showering their land with plentiful harvests and rich wildlife. However, during **the Scarring**, the Navigator is known to conjure various natural disasters in the conflict of power. These natural disasters are what led to the isolation of the elves, their race never peeking outside their gates to see the razed land beyond them.
+The Navigator is most known for their masterful control over elements of nature. In the ancient texts, it is said that the Navigator is directly responsible for the thriving haven of [[Galaderyn]], showering their land with plentiful harvests and rich wildlife. However, during **the Scarring**, the Navigator is known to conjure various natural disasters in the conflict of power. These natural disasters are what led to the isolation of the elves, their race never peeking outside their gates to see the razed land beyond them.
 
-The Navigator's powers all manifest as masteries of separate elements. For example, an Avatar could be capable of only water-bending, while another could be proficient at manipulating the winds. All records of the Navigator's Avatars show that each and every one of these Avatars are of Elven descent, as practiced invokers from the [[Ferros Republic]] share many similarities with the Navigator.
+The Navigator's powers all manifest as masteries of separate elements. For example, an Avatar could be capable of only water-bending, while another could be proficient at manipulating the winds. All records of the Navigator's Avatars show that each and every one of these Avatars are of Elven descent, as practiced invokers and manawards from the [[Factions of Luciradis#Ferros Republic|Ferros Republic]] share many similarities with the Navigator.
 
 ## The Ember
 **Last Known Avatar:** Unknown  
