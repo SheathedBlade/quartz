@@ -1,10 +1,10 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-22T11:10:20.2020-04:00
+last-modified: 2024-05-22T18:40:54.5454-04:00
 description: Homepage for the storage of knowledge surrounding the world of Luciradis. It includes general terminology and information, important individuals that made a mark (whether good or bad) on the world, most well-known locales and history-defining events.
 title: Luciradis Knowledge Database
 ---
-As part of the ongoing efforts to maintain the integrity of ancient historical records and the additions of new records for the foreseeable future, the [[Cerelicia]] government has approved Miss [[Kallie Myrai|Kallie Myrai's]] proposal of the publication of all knowledge regarding the world we live in, [[Luciradis]]. We, at [[Oracle's Vision]], hope that everyone across the world can use the Luciradis Knowledge Database for **educational and academic purposes**.
+As part of the ongoing efforts to maintain the integrity of ancient historical records and the additions of new records for the foreseeable future, the [[Cerelicia]] government has approved Miss [[Kallie Myrai|Kallie Myrai's]] proposal of the publication of all knowledge regarding the world we live in, [[Luciradis]]. We, at [[Cerelicia#Oracle's Vision|Oracle's Vision]], hope that everyone across the world can use the Luciradis Knowledge Database for **educational and academic purposes**.
 
 The **Luciradis Knowledge Database** is a repository of information gathered and maintained over the course of thousands of years, courtesy of Miss Myrai. You can view information on various **influential figures**, **famous locales**, **events that shaped the course of history**, and **firsthand accounts** of individuals who have lived to see these events unfold. In addition to this, the Database holds general, but detailed, information regarding the nature and history of Luciradis. Much of this information is carried over by scholars in the past, but their insights still hold true today, even if its relevance to the modern world diminishes with each generation.
 

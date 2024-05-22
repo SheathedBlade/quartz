@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T02:06:18.1818-05:00
+last-modified: 2024-05-22T18:41:45.4545-04:00
 ---
 *Internal Census of the Stalwryn Kingdom*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*
@@ -14,7 +14,7 @@ last-modified: 2024-02-10T02:06:18.1818-05:00
 - Allegiance: [[Cerelicia]], [[Luciradis#Nova Ciel|Nova Ciel]]
 - Height: 
 - Weight: 
-- Occupation: Head Archivist of [[Oracle's Vision]]
+- Occupation: Head Archivist of [[Cerelicia#Oracle's Vision|Oracle's Vision]]
 
 _* - Stalwryn's internal census was conducted when she was 14 years_
 ## Protean Essence
