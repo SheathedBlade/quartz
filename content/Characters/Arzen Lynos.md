@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-09T03:06:10.1010-05:00
+last-modified: 2024-05-24T18:05:40.4040-04:00
 ---
 *Internal Census of the Stalwryn Kingdom*  
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
@@ -84,7 +84,7 @@ While this source is, at best, unreliable, we must nevertheless document it. Arz
 
 We believe that this is his supposed *Gift of the Realm* that was supposed to be passed on to the late prince [[Karos Varens]]. It would naturally explain the otherworldliness of this ability, as well as his unnatural instinct to 
 
-> *// K.M. edit //*
+> *// K.M. edit //*  
 > This power goes even beyond living beings with a soul. It also allows Arzen to see souls of the deceased that cling onto the realm of the living. This corroborates with the fact that he personally knows *Karos* without, seemingly, ever meeting him.
 > 
 > This also corroborates his once-deteriorating mental state, as Arzen frequently came face-to-face with souls of the past, however vague or detailed he may remember them.
