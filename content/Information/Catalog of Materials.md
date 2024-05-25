@@ -1,6 +1,6 @@
 ---
 date: 2024-02-09T02:03:00.000-05:00
-last-modified: 2024-05-24T18:23:15.1515-04:00
+last-modified: 2024-05-24T20:31:15.1515-04:00
 ---
 *The below details the most up-to-date listing of materials in Luciradis, both artificial and natural.*
 
@@ -9,9 +9,9 @@ last-modified: 2024-05-24T18:23:15.1515-04:00
 
 ---
 ## Wood
-### Prismaia Tree
+### Prismaia Bark
 
-Prismaia trees are a rare, but naturally occurring species characterized by its prismatic and golden leaves, silver bark, and towering heights. 
+Prismaia trees are a rare, but naturally occurring species characterized by its prismatic and golden leaves, silver bark, and towering heights. Naturally infused with mana, prismaia bark is essential in the creation of various magical and alchemical tools.
 
 ## Stone
 ### Obsidian
