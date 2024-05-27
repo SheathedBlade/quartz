@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T02:06:45.4545-05:00
+last-modified: 2024-05-27T01:57:33.3333-04:00
 description: Karos Varens was the son, and only child, to King Leoris Varens, and heir to the throne of the Stalwryn Kingdom. His father was strict in preparing Karos for the throne, but allowed him to pursue archery and other adventurous endeavors.
 ---
 _Internal Census of the Stalwryn Kingdom_  
@@ -24,19 +24,19 @@ _Internal Census of the Stalwryn Kingdom_
 
 *The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
-|      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
-| Shimmering Wings | <progress value="0" max="100"></progress> |
-|          Paragon | <progress value="20" max="100"></progress>  |
-|             Seer | <progress value="25" max="100"></progress>  |
-|        Stargazer | <progress value="0" max="100"></progress>   |
-|        Arrowhead | <progress value="85" max="100"></progress>  |
-|         Deceiver | <progress value="0" max="100"></progress>   |
-|        Navigator | <progress value="30" max="100"></progress>  |
-|            Ember | <progress value="15" max="100"></progress>  |
+|      **Concept** | **Amount of Essence**                      |
+| ---------------: | :----------------------------------------- |
+| Shimmering Wings | <progress value="0" max="100"></progress>  |
+|          Paragon | <progress value="20" max="100"></progress> |
+|             Seer | <progress value="25" max="100"></progress> |
+|        Stargazer | <progress value="0" max="100"></progress>  |
+|         Lifeline | <progress value="85" max="100"></progress> |
+|         Deceiver | <progress value="0" max="100"></progress>  |
+|        Navigator | <progress value="30" max="100"></progress> |
+|        Harvester | <progress value="15" max="100"></progress> |
 |      Illuminator | <progress value="0" max="100"></progress>  |
 |           Matrix | <progress value="0" max="100"></progress>  |
-|      Convergence | <progress value="0" max="100"></progress>   |
+|      Convergence | <progress value="0" max="100"></progress>  |
 ## Background
 
 Karos Varens was the son, and only child, to King [[Leoris Varens]], and heir to the throne of the [[Stalwryn Kingdom]]. 

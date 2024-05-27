@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-22T18:27:00.000-04:00
+last-modified: 2024-05-27T01:55:50.5050-04:00
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
 
@@ -57,7 +57,7 @@ The Stargazer, as was written in the ancient texts, was notably the most passive
 
 In certain folklores of eld, the Stargazer boasts both incredible and world-defying magic. Depictions of the Stargazer shows that it is capable of a much more primitive version of psychokinesis, which does include telepathy. However, from what we know now of telepathy, it requires a strong bond with the individual it is trying to influence. As such, it can be assumed that its would-be Avatar would be equally as strong, no matter the amount of remnant within the individual. However, even with its overwhelming power, the Stargazer rarely utilized it, according to ancient texts. Even less so, there are very few instances where an Avatar of this Concept has emerged publicly.
 
-## The Arrowhead
+## The Lifeline
 **Last Known Avatar:** [[Karos Varens]]  
 
 ## The Deceiver
@@ -82,7 +82,7 @@ The Navigator is most known for their masterful control over elements of nature.
 
 The Navigator's powers all manifest as masteries of separate elements. For example, an Avatar could be capable of only water-bending, while another could be proficient at manipulating the winds. All records of the Navigator's Avatars show that each and every one of these Avatars are of Elven descent, as practiced invokers and manawards from the [[Factions of Luciradis#Ferros Republic|Ferros Republic]] share many similarities with the Navigator.
 
-## The Ember
+## The Harvester
 **Last Known Avatar:** Unknown  
 
 ## The Illuminator

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-02-10T02:07:04.044-05:00
+last-modified: 2024-05-27T01:58:20.2020-04:00
 ---
 _Internal Census of the Stalwryn Kingdom_  
 *Edited by the Independent Journal of Historians of Nova Ciel*

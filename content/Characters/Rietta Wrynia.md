@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-22T18:23:14.1414-04:00
+last-modified: 2024-05-27T01:56:56.5656-04:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -31,19 +31,19 @@ _*** - Her previous allegiance was to the_ [[Stalwryn Kingdom]]
 
 *The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
-|      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
-|         Shimmering Wings | <progress value="0" max="100"></progress> |
-|        Paragon | <progress value="10" max="100"></progress>  |
-|           Seer | <progress value="5" max="100"></progress>  |
-|        Stargazer | <progress value="0" max="100"></progress>   |
-|          Arrowhead | <progress value="40" max="100"></progress>  |
-|        Deceiver | <progress value="40" max="100"></progress>  |
-| Navigator | <progress value="90" max="100"></progress> |
-|      Ember | <progress value="0" max="100"></progress>   |
-|      Illuminator | <progress value="15" max="100"></progress>  |
-|             Matrix | <progress value="25" max="100"></progress>  |
-|            Convergence | <progress value="80" max="100"></progress>  |
+|      **Concept** | **Amount of Essence**                      |
+| ---------------: | :----------------------------------------- |
+| Shimmering Wings | <progress value="0" max="100"></progress>  |
+|          Paragon | <progress value="10" max="100"></progress> |
+|             Seer | <progress value="5" max="100"></progress>  |
+|        Stargazer | <progress value="0" max="100"></progress>  |
+|         Lifeline | <progress value="30" max="100"></progress> |
+|         Deceiver | <progress value="40" max="100"></progress> |
+|        Navigator | <progress value="90" max="100"></progress> |
+|        Harvester | <progress value="0" max="100"></progress>  |
+|      Illuminator | <progress value="15" max="100"></progress> |
+|           Matrix | <progress value="25" max="100"></progress> |
+|      Convergence | <progress value="80" max="100"></progress> |
 
 ## Background
 

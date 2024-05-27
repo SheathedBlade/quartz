@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-22T18:28:11.1111-04:00
+last-modified: 2024-05-27T01:57:55.5555-04:00
 ---
 *Internal Census of the Luxor Citadel*  
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
@@ -29,18 +29,18 @@ _** - Her previous occupation was as a Beacon of the [[Factions of Luciradis#Lux
 *The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
-|         Shimmering Wings | <progress value="0" max="100"></progress> |
-|        Paragon | <progress value="0" max="100"></progress>  |
-|           Seer | <progress value="5" max="100"></progress>  |
-|        Stargazer | <progress value="100" max="100"></progress>   |
-|          Arrowhead | <progress value="0" max="100"></progress>  |
-|        Deceiver | <progress value="25" max="100"></progress>  |
-| Navigator | <progress value="20" max="100"></progress> |
-|      Ember | <progress value="75" max="100"></progress>   |
+| ---------------: | :------------------------------------------ |
+| Shimmering Wings | <progress value="0" max="100"></progress>   |
+|          Paragon | <progress value="0" max="100"></progress>   |
+|             Seer | <progress value="5" max="100"></progress>   |
+|        Stargazer | <progress value="100" max="100"></progress> |
+|         Lifeline | <progress value="0" max="100"></progress>   |
+|         Deceiver | <progress value="25" max="100"></progress>  |
+|        Navigator | <progress value="20" max="100"></progress>  |
+|        Harvester | <progress value="75" max="100"></progress>  |
 |      Illuminator | <progress value="85" max="100"></progress>  |
-|             Matrix | <progress value="5" max="100"></progress>  |
-|            Convergence | <progress value="70" max="100"></progress>  |
+|           Matrix | <progress value="5" max="100"></progress>   |
+|      Convergence | <progress value="70" max="100"></progress>  |
 
 ## Background
 
@@ -75,7 +75,7 @@ Amara is revealed to be the last known Avatar of the elusive [[Protean Concepts#
 
 Additionally, Amara is also revealed as the identity of the [[The Remnant Slayer|Remnant Slayer]], the once infamous international criminal that roamed the world killing the Avatars in order to have all the Concept remnants in once place. Her goal is to reset [[Luciradis]] and rid the world of the power of the Concepts, as well as their influence, citing that she has seen the ugliness of the world she walked on and wished it to go away. Deciding it was enough, Amara awakened to her powers of the Stargazer, as both Amara and the Stargazer shared a common ideal: "Would the world be better off without the Concepts?".
 
-During their meeting, Ren claims that Amara had the remnants of the [[Protean Concepts#The Ember|Ember]], [[Protean Concepts#The Convergence|Convergence]], and [[Protean Concepts#The Illuminator|Illuminator]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Protean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Ren her Concept powers in order for Ren to win most of his most difficult battles.
+During their meeting, Ren claims that Amara had the remnants of the [[Protean Concepts#The Harvester|Harvester]], [[Protean Concepts#The Convergence|Convergence]], and [[Protean Concepts#The Illuminator|Illuminator]] before forcibly obtaining the powers of the rest of the Concepts (except the [[Protean Concepts#The Paragon|Paragon]]). It's revealed then that Amara secretly gave Ren her Concept powers in order for Ren to win most of his most difficult battles.
 
 We can infer here that Amara, after having been traveling as a **beacon** for the Luxori Covenant for so long, has had enough of the death and despair, the conspiracies and lies, juxtaposed with the "peace" that was prevalent in the world.
 

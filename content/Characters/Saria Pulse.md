@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-22T18:26:28.2828-04:00
+last-modified: 2024-05-27T01:57:48.4848-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -36,16 +36,16 @@ _*** - Her previous occupation was as Lead Vanguard of the Stalwryn Kingdom_
 *The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
-| ----------------:|:------------------------------------------- |
+| ---------------: | :------------------------------------------ |
 | Shimmering Wings | <progress value="100" max="100"></progress> |
 |          Paragon | <progress value="40" max="100"></progress>  |
 |             Seer | <progress value="25" max="100"></progress>  |
 |        Stargazer | <progress value="0" max="100"></progress>   |
-|        Arrowhead | <progress value="15" max="100"></progress>  |
+|         Lifeline | <progress value="15" max="100"></progress>  |
 |         Deceiver | <progress value="0" max="100"></progress>   |
 |        Navigator | <progress value="30" max="100"></progress>  |
-|            Ember | <progress value="55" max="100"></progress>  |
-|      Illuminator | <progress value="0" max="100"></progress>  |
+|        Harvester | <progress value="0" max="100"></progress>   |
+|      Illuminator | <progress value="35" max="100"></progress>  |
 |           Matrix | <progress value="10" max="100"></progress>  |
 |      Convergence | <progress value="5" max="100"></progress>   |
 
