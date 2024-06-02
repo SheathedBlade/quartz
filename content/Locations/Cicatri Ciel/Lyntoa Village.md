@@ -1,13 +1,13 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-22T18:15:07.077-04:00
+last-modified: 2024-06-01T22:05:23.2323-04:00
 description: '"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."'
 ---
 *"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."*  
 *Excerpt from 'The Musings of Fate', Luxori Covenant*
 
 ---
-Lyntoa Village is a small settlement on the outskirts of the [[Port of Anahymn]], under territory of the [[Stalwryn Kingdom]]. The village has close relations to the royalty of Stalwryn, often netting the village numerous benefits and privileges such as access to high-class education, trade agreements, and protection. Due to its relatively remote location on the cliffs by the coastline, it is a great hub for travelers to briefly stop and peddle wares before arriving to the Port of Anahymn.
+Lyntoa Village is a small settlement on the outskirts of the [[Port of Anahymn]], under territory of the [[Factions of Luciradis#Monarchy of Stalwryn|Monarchy of Stalwryn]]. The village has close relations to the royalty of Stalwryn, often netting the village numerous benefits and privileges such as access to high-class education, trade agreements, and protection. Due to its relatively remote location on the cliffs by the coastline, it is a great hub for travelers to briefly stop and peddle wares before arriving to the Port of Anahymn.
 
 Though it has a small population, Lyntoa Village is diverse in its population; human inhabitants are the majority, but one can find [[The Inhabitants of Luciradis#Terrakin|terrakin]] inhabitants due to their close proximity to the forests. In the 5282 ASC census of the Stalwryn Kingdom, it notes a family of elves as part of the population; a rarity since elves are uncommon in any place save for the elven capital, [[Galaderyn]].
 ## Etymology

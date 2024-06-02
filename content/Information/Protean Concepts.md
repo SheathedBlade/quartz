@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-27T01:55:50.5050-04:00
+last-modified: 2024-06-01T21:16:37.3737-04:00
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
 
@@ -60,17 +60,11 @@ In certain folklores of eld, the Stargazer boasts both incredible and world-defy
 ## The Lifeline
 **Last Known Avatar:** [[Karos Varens]]  
 
-## The Deceiver
+## The Reflection
 **Previous Avatar:** Unknown  
 **Current Avatar:** [[Erina Hayashi]]  
 
-Despite its name, the Deceiver of legends was not a malicious liar and backstabber that one may think it is, that is until we reach the section of the Scarring. It refers to its power of illusions, most notably its power to change its identity. All across ancient legends, the Deceiver's visage changes from story to story, appearing as a savage beast in one legend, to a high noble in another. In all cases, the one clue that connects these legends back to the Deceiver is the use of masks.
 
-Masks, in general, can be symbolized as a face that you show to one audience, and can be swapped to suit another audience. This is the source of the Deceiver's power: to be able to temporarily channel the power that the mask represents.
-
-During the Scarring, the Deceiver would sabotage various factions of the Concepts, destroying units from within. He had the assistance of its devout followers, infiltrating the ranks of men and wreak havoc across Luciradis. Since the end of the Scarring, the followers of the Deceiver would settle on the Amber Clifftops, the with the only relics in their possession being the Deceiver's masks.
-
-The first Avatar would appear in the land that would become the [[Azamuku Domain]], and would gain control of the power inside the masks. At this point in time, there were five mask relics, two of which were lost to time entering the modern age.
 
 ## The Navigator
 **Previous Avatar:** [[Cyrus Orico]]  

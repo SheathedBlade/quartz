@@ -1,6 +1,6 @@
 ---
 date: 2024-05-22T18:10:32.3232-04:00
-last-modified: 2024-05-27T02:13:05.055-04:00
+last-modified: 2024-06-01T23:18:37.3737-04:00
 ---
 *Published by the Congregation of Academia, Luxor Citadel*  
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
@@ -11,6 +11,11 @@ last-modified: 2024-05-27T02:13:05.055-04:00
 ### Background
 
 The Brood of Arodraenix refers to the ruling clan of dragons led by Broodmaster Orsilus of Arodraenix.
+
+## Dreamweavers (Yumori-te)
+### Background
+
+The dreamweavers are one of two factions of **akumaros** descended from the protean concept, [[Protean Concepts#The Reflection|the Reflection]]. They are native to the southern landmass of [[Luciradis#Nova Ciel|Nova Ciel]], make up the majority of the nomadic akumaros, and are the ones who stayed behind while **the Reflection** and **the Illusionists** journeyed north to the landmass of [[Luciradis#Cicatri Ciel|Cicatri Ciel]].
 
 ## Ferros Republic
 
@@ -33,6 +38,12 @@ Although the elves are discouraged from leaving Galaderyn, the sovereign elves h
 ### Drifting Elf
 
 Drifting elves are, for a lack of a better term, exiled from the Ferros Republic. Despite the seemingly serious nature of this title, it simply refers to any elf that leaves Galaderyn, or gave up allegiance, for any unofficial reason. Given that it is very difficult for anyone to enter or leave the Republic, the title is quite fitting, as drifting elves have no place or purpose in the Republic's society. The sovereign elves don't necessarily keep track of who is a drifting elf, but guards at the gate will turn away any elf that tries to re-enter Galaderyn without official authority of the sovereign elves.
+
+## Illusionists (Gensōsenshi)
+
+### Background
+
+The illusionists are one of two factions of akumaros descended from the protean concept, [[Protean Concepts#The Reflection|the Reflection]].
 
 ## Luxori Covenant
 

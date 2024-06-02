@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-27T01:56:32.3232-04:00
+last-modified: 2024-06-01T22:56:11.1111-04:00
 ---
 *Internal Census of the Luxor Citadel*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*
@@ -8,14 +8,18 @@ last-modified: 2024-05-27T01:56:32.3232-04:00
 - Age: ???
 - Gender: Male
 - Race: [[The Inhabitants of Luciradis#Luxori|Luxori]]
-- Date of Birth:
+- Date of Birth: 14th Day of the Seer, from the Year 63 BSC *(14/04/63 BSC)*
 - Date of Death: Stargazer's 10th, 10110 ASC *(16/05/10110)*
 - Place of Origin: [[Luxor Citadel]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance:
 - Height: 6'4'' / 193cm
 - Weight:
 - Occupation: Arcis Princeps of the [[Luxor Citadel]]
 - Relationships:
 	- [[Arzen Lynos]]: Arch-enemy
+	- [[Brycen val Illustros]]: Co-member of the original party of heroes
+	- [[Lucien Demeri]]: Co-member of the original party of heroes
+	- [[Nero Carnegoa]]
 
 ## Protean Essence
 
@@ -28,7 +32,7 @@ last-modified: 2024-05-27T01:56:32.3232-04:00
 |             Seer | <progress value="100" max="100"></progress> |
 |        Stargazer | <progress value="0" max="100"></progress>   |
 |         Lifeline | <progress value="0" max="100"></progress>   |
-|         Deceiver | <progress value="30" max="100"></progress>  |
+|       Reflection | <progress value="30" max="100"></progress>  |
 |        Navigator | <progress value="40" max="100"></progress>  |
 |        Harvester | <progress value="10" max="100"></progress>  |
 |      Illuminator | <progress value="85" max="100"></progress>  |

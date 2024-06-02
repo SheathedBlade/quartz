@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-27T01:57:33.3333-04:00
+last-modified: 2024-06-01T21:51:01.011-04:00
 description: Karos Varens was the son, and only child, to King Leoris Varens, and heir to the throne of the Stalwryn Kingdom. His father was strict in preparing Karos for the throne, but allowed him to pursue archery and other adventurous endeavors.
 ---
 _Internal Census of the Stalwryn Kingdom_  
@@ -12,10 +12,10 @@ _Internal Census of the Stalwryn Kingdom_
 - Date of Birth: 14th Day of the Shimmering Wings, from the Year 5263 ASC *(14/02/5263)*
 - Date of Death: 19th Day of the Stargazer, from the Year 5277 ASC *(19/05/5277)*
 - Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
-- Allegiance: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
+- Allegiance: [[Factions of Luciradis#Monarchy of Stalwryn|Monarchy of Stalwryn]]
 - Height: 4'11'' / 150cm
 - Weight: 125 lbs / 57 kg
-- Occupation: Prince of the [[Stalwryn Kingdom]]
+- Occupation: Prince of Stalwryn
 - Relationships:
 	- [[Leoris Varens]]: Father
 	- [[Arzen Lynos]]: Friend
@@ -31,7 +31,7 @@ _Internal Census of the Stalwryn Kingdom_
 |             Seer | <progress value="25" max="100"></progress> |
 |        Stargazer | <progress value="0" max="100"></progress>  |
 |         Lifeline | <progress value="85" max="100"></progress> |
-|         Deceiver | <progress value="0" max="100"></progress>  |
+|       Reflection | <progress value="0" max="100"></progress>  |
 |        Navigator | <progress value="30" max="100"></progress> |
 |        Harvester | <progress value="15" max="100"></progress> |
 |      Illuminator | <progress value="0" max="100"></progress>  |

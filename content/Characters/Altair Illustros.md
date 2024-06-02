@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-27T01:56:08.088-04:00
+last-modified: 2024-06-01T21:12:53.5353-04:00
 ---
 *Internal Census of Luxor Citadel*
 ## Basic Info
@@ -25,7 +25,7 @@ last-modified: 2024-05-27T01:56:08.088-04:00
 |             Seer | <progress value="5" max="100"></progress>  |
 |        Stargazer | <progress value="0" max="100"></progress>  |
 |         Lifeline | <progress value="20" max="100"></progress> |
-|         Deceiver | <progress value="0" max="100"></progress>  |
+|       Reflection | <progress value="0" max="100"></progress>  |
 |        Navigator | <progress value="0" max="100"></progress>  |
 |        Harvester | <progress value="5" max="100"></progress>  |
 |      Illuminator | <progress value="60" max="100"></progress> |

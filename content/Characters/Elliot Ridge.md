@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-27T01:57:03.033-04:00
+last-modified: 2024-06-01T21:14:12.1212-04:00
 ---
 *Internal Census of Terystal*
 ## Basic Info
@@ -26,7 +26,7 @@ last-modified: 2024-05-27T01:57:03.033-04:00
 |             Seer | <progress value="5" max="100"></progress>  |
 |        Stargazer | <progress value="0" max="100"></progress>  |
 |         Lifeline | <progress value="20" max="100"></progress> |
-|         Deceiver | <progress value="0" max="100"></progress>  |
+|       Reflection | <progress value="0" max="100"></progress>  |
 |        Navigator | <progress value="0" max="100"></progress>  |
 |        Harvester | <progress value="0" max="100"></progress>  |
 |      Illuminator | <progress value="60" max="100"></progress> |

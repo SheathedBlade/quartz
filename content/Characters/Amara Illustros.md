@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-05-27T01:57:55.5555-04:00
+last-modified: 2024-06-01T21:13:01.011-04:00
 ---
 *Internal Census of the Luxor Citadel*  
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base edits made by K. Myrai*
@@ -35,7 +35,7 @@ _** - Her previous occupation was as a Beacon of the [[Factions of Luciradis#Lux
 |             Seer | <progress value="5" max="100"></progress>   |
 |        Stargazer | <progress value="100" max="100"></progress> |
 |         Lifeline | <progress value="0" max="100"></progress>   |
-|         Deceiver | <progress value="25" max="100"></progress>  |
+|       Reflection | <progress value="25" max="100"></progress>  |
 |        Navigator | <progress value="20" max="100"></progress>  |
 |        Harvester | <progress value="75" max="100"></progress>  |
 |      Illuminator | <progress value="85" max="100"></progress>  |
@@ -64,7 +64,7 @@ Amara, since being excommunicated, left Luxor Citadel and traveled the vast land
 
 #### Physical Combat:
 
-Amara wields a **double-ended glaive**, a unique weapon bestowed onto her as a high-ranking individual within the Luxori Covenant. She has, however, made modifications to her glaive ever since she was settled in [[Lyntoa Village]], attaching a "whip-like" modification on her blades. This gives her glaive the same sort of functionality a whipsword from the soldiers of the [[Azamuku Domain]] has, wherein parts of metal from the blade is attached via a flexible cord that both expands and contracts.
+Amara wields a **double-ended glaive**, a unique weapon bestowed onto her as a high-ranking individual within the Luxori Covenant. She has, however, made modifications to her glaive ever since she was settled in [[Lyntoa Village]], attaching a "whip-like" modification on her blades. This gives her glaive the same sort of functionality a whipsword from the soldiers of the [[Gensōkasu]] has, wherein parts of metal from the blade is attached via a flexible cord that both expands and contracts.
 
 Overall, this modification makes her glaive a very dangerous weapon to use, as one would need to have the skill required to use a glaive and a whipsword at the same time. However, at the same time, if used correctly, it is a deadly weapon to use against her foes. Amara herself rarely ever uses the modification, only deploying it when it is absolutely necessary.
 

@@ -1,19 +1,24 @@
 ---
 date: 2023-09-22T17:26:54.5454-04:00
-last-modified: 2024-05-22T18:31:27.2727-04:00
+last-modified: 2024-06-01T22:56:02.022-04:00
 ---
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai*
 ## Basic Info
 - Age: ???
 - Gender: Male
 - Race: Human
-- Date of Birth: 
+- Date of Birth: 26th Day of the Creator, from the Year 34 BSC *(26/01/34 BSC)*
 - Date of Death: N/A
-- Place of Origin: 
+- Place of Origin: [[Amber Clifftops|Settlement of Cinderdrift]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: None
-- Height: 
+- Height: 5'9" / 175cm
 - Weight:
 - Occupation: 
+- Relationships:
+	- [[Arzen Lynos]]
+	- [[Brycen val Illustros]]
+	- [[Driardos Malairse]]
+	- [[Nero Carnegoa]]
 
 ## Protean Essence
 
