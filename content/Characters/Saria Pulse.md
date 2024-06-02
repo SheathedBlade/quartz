@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-01T23:17:55.5555-04:00
+last-modified: 2024-06-02T02:16:31.3131-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -85,7 +85,7 @@ Curiously, Saria chose not to input her family's name as her last name. When fil
 
 Saria, as a daughter to the dragons, has very noticeable draconic features, including her pitch-black scales covering small portions of her pale skin. In addition, black horns protrude from the top of her head, with a tail reaching the length of her legs. Despite this, however, she takes on a human-dominated appearance. Saria has long, flowing platinum blonde hair with natural red highlights, along with teal eyes.
 
-Saria has an athletic build, no doubt due to her training as a vanguard. Her bust size is F/G (US/JP), so she does have a slightly voluptuous and curvy appearance. She bears a love crest near her abdominal area, which Saria tells us it's as proof of her and [[Arzen Lynos|Ren's]] affection and love for each other.
+Saria has an athletic build, no doubt due to her training as a vanguard. Her bust size is F/G (US/JP), so she does have a slightly voluptuous and curvy appearance. She bears a love crest near her abdominal area, which Saria tells us it's as proof of her and [[Arzen Lynos|Arzen's]] affection and love for each other.
 
 >*// K.M. edit //*  
 >Although multiple millennia have passed, Saria still retains her youthful, mid-to-late 20's human form. Whether this is a byproduct of being a hybrid or through careful maintenance is up in the air. This kind of thing is extremely personal to her, so I won't pry further.
@@ -130,7 +130,7 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 
 ### Physical Combat
 
-Saria uses a swordspear infused with her innate draconic energy. As part of her training as a Kingdom vanguard, Saria uses various lance techniques taught by the most veteran of soldiers, as well as incorporating a unique style taught by [[Arzen Lynos|Ren]] throughout their travels. The swordspear is a weapon granted to higher-ranking soldiers once they have bested their masters. Saria's swordspear was then modified to house a portion of her draconic magicks, covering the blade in a violet flame hot enough to sear meat in only a few seconds.
+Saria uses a swordspear infused with her innate draconic energy. As part of her training as a Kingdom vanguard, Saria uses various lance techniques taught by the most veteran of soldiers, as well as incorporating a unique style taught by [[Arzen Lynos|Arzen]] throughout their travels. The swordspear is a weapon granted to higher-ranking soldiers once they have bested their masters. Saria's swordspear was then modified to house a portion of her draconic magicks, covering the blade in a violet flame hot enough to sear meat in only a few seconds.
 
 Saria also wields the primal instinct of [[Protean Concepts#The Shimmering Wings|the Shimmering Wings]]. By tapping into that power, she gains immense agility and strength. While half-breeds tend to struggle to transform into their more pure-primal counterparts, Saria uses the Concept's power to not only easily grant her human form flight via ethereal wings, but also allow her to transform into her fully-fledged draconic form for an extended period of time.
 
