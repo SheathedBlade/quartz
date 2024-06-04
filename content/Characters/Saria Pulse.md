@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-02T22:07:05.055-04:00
+last-modified: 2024-06-04T14:45:37.3737-04:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -113,11 +113,11 @@ Saria is also very dismissive of affairs concerning her departure of the Arodrae
 ### Likes
 
 - Gourmet food
-	- She loves making and eating these foods, as some of her cooking skills were passed on by **Ren** during their stay in the Stalwryn Kingdom.
+	- She loves making and eating these foods, as some of her cooking skills were passed on by Arzen during their stay in the Stalwryn Kingdom.
 - Trendy fashion
 	- She rarely gets extremely elegant outfits, but she will always keep up with fashion trends such as streetwear, casual wear, and techwear.
 - Exploring
-	- She loves to explore the obscure and the unknown, which is a trait shared with Ren Lynos. Though, she enjoys the journey more than the destination.
+	- She loves to explore the obscure and the unknown, which is a trait shared with Arzen Lynos. Though, she enjoys the journey more than the destination.
 
 ### Dislikes
 
