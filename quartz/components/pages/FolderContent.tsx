@@ -13,6 +13,7 @@ interface FolderContentOptions {
    * Whether to display number of folders
    */
   showFolderCount: boolean
+  sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
@@ -37,6 +38,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = ["popover-hint", ...cssClasses].join(" ")
     const listProps = {
       ...props,
+      sort: options.sort,
       allFiles: allPagesInFolder,
     }
 
