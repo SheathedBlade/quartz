@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-18T01:26:40.4040-04:00
+last-modified: 2024-09-24T01:57:45.4545-04:00
 description: Homepage for the storage of knowledge surrounding the world of Luciradis. It includes general terminology and information, important individuals that made a mark (whether good or bad) on the world, most well-known locales and history-defining events.
 title: Luciradis Knowledge Database
 ---
@@ -39,4 +39,4 @@ If this is your first time using the Database, or want suggestions to start your
 
 ### Feedback
 
-The Luciradis Knowledge Database is open to any and all feedback. If you have any suggestions or concerns, from the presentation of the database to concerning bugs, feel free to **submit an issue** on the source code repository on **[GitHub](https://github.com/SheathedBlade/The-World-of-Luciradis)**. The Head Archivist will review your issue and act accordingly if necessary.
+The Luciradis Knowledge Database is open to any and all feedback. If you have any suggestions or concerns, from the presentation of the database to bugs, feel free to **submit an issue** on the source code repository on **[GitHub](https://github.com/SheathedBlade/The-World-of-Luciradis)**. The Head Archivist will review your issue and act accordingly if necessary.
