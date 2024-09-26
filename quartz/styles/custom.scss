@@ -52,7 +52,7 @@ html {
       }
       &.right {
         right: calc(50vw - 765px);
-        & .toc.desktop-only #toc-content {
+        & .toc.desktop-only #toc-content ul.overflow {
           max-height: 286px !important;
         }
       }
