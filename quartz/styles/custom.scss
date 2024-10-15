@@ -73,8 +73,10 @@ html {
   }
 
   &[saved-theme="light"] {
-    div#search-icon > p {
-      color: #414141 !important;
+    div.search > #search-button {
+      & > p {
+        color: #414141 !important;
+      }
     }
 
     progress {
