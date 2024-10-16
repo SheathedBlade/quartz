@@ -9,7 +9,7 @@ last-modified: 2024-06-27T21:55:20.2020-04:00
 
 > "Akumaros" is the plural version of this word.
 
-The akumaros are a rare race; not native to Cicatri Ciel, but from the southern lands beyond the horizon. They first immigrated to Cicatri Ciel, and set their roots down on what is now known today as the [[Gensōkasu]]. While the vast majority of its population is not of Akumari descent, pure Akumari individuals garner immense respect within their communities.
+The akumaros are a rare race; not native to Cicatri Ciel, but from the southern lands beyond the horizon. They first immigrated to Cicatri Ciel, and set their roots down on what is now known today as the [[Gensōkyo]]. While the vast majority of its population is not of Akumari descent, pure Akumari individuals garner immense respect within their communities.
 
 >*// K.M. edit //*  
 >The ancestral homeplace of the akumaros is in the frigid mountains of **Gokan**, where the developed city of **[[Ifuri]]** takes root. Before the **Cicatri Emigration**, Ifuri was just one of many nomadic Akumari settlements. One could say an Ifurian akumari is much more traditional than those one would find at Gensōkasu.
@@ -60,4 +60,4 @@ The dragons are an extraterrestrial, intelligent race of winged, scaled beasts. 
 
 > The original nomenclature, as one of our researchers found out, is "Hryvernus", or "Hryverni" as plural.
 
-Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Protean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkasu]]).
+Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Protean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).

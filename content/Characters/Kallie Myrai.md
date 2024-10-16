@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-01T21:15:41.4141-04:00
+last-modified: 2024-10-16T15:33:23.2323-04:00
 ---
 *Internal Census of the Stalwryn Kingdom*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*
@@ -12,9 +12,16 @@ last-modified: 2024-06-01T21:15:41.4141-04:00
 - Date of Death: N/A
 - Place of Origin: [[Stalwryn Kingdom]], [[Luciradis#Cicatri Ciel|Cicatri Ciel]]
 - Allegiance: [[Cerelicia]], [[Luciradis#Nova Ciel|Nova Ciel]]
-- Height: 
+- Height: 5'7'' / 170cm
 - Weight: 
 - Occupation: Head Archivist of [[Cerelicia#Oracle's Vision|Oracle's Vision]]
+- Relationships:
+	- [[Arzen Lynos]]
+	- [[Saria Pulse]]
+	- [[Erina Hayashi]]
+	- [[Rietta Wrynia]]
+	- [[Varant Illustros]]
+	- [[Altair Illustros]]
 
 _* - Stalwryn's internal census was conducted when she was 14 years_
 ## Protean Essence

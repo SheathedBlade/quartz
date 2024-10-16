@@ -64,7 +64,7 @@ Amara, since being excommunicated, left Luxor Citadel and traveled the vast land
 
 #### Physical Combat:
 
-Amara wields a **double-ended glaive**, a unique weapon bestowed onto her as a high-ranking individual within the Luxori Covenant. She has, however, made modifications to her glaive ever since she was settled in [[Lyntoa Village]], attaching a "whip-like" modification on her blades. This gives her glaive the same sort of functionality a whipsword from the soldiers of the [[Gensōkasu]] has, wherein parts of metal from the blade is attached via a flexible cord that both expands and contracts.
+Amara wields a **double-ended glaive**, a unique weapon bestowed onto her as a high-ranking individual within the Luxori Covenant. She has, however, made modifications to her glaive ever since she was settled in [[Lyntoa Village]], attaching a "whip-like" modification on her blades. This gives her glaive the same sort of functionality a whipsword from the soldiers of the [[Gensōkyo]] has, wherein parts of metal from the blade is attached via a flexible cord that both expands and contracts.
 
 Overall, this modification makes her glaive a very dangerous weapon to use, as one would need to have the skill required to use a glaive and a whipsword at the same time. However, at the same time, if used correctly, it is a deadly weapon to use against her foes. Amara herself rarely ever uses the modification, only deploying it when it is absolutely necessary.
 
