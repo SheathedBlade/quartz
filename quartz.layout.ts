@@ -6,7 +6,17 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "SheathedBlade/The-World-of-Luciradis",
+        repoId: "R_kgDOKS61Gw",
+        category: "Announcements",
+        categoryId: "DIC_kwDOKS61G84CkjQD",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/SheathedBlade/The-World-of-Luciradis",
