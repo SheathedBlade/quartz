@@ -13,6 +13,7 @@ interface FolderContentOptions {
    * Whether to display number of folders
    */
   showFolderCount: boolean
+  showSubfolders: boolean
   sort?: SortFn
 }
 
@@ -26,14 +27,47 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
     const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
-    const allPagesInFolder = allFiles.filter((file) => {
+    const folderParts = folderSlug.split(path.posix.sep)
+
+    const allPagesInFolder: QuartzPluginData[] = []
+    const allPagesInSubfolders: Map<FullSlug, QuartzPluginData[]> = new Map()
+
+    allFiles.forEach((file) => {
       const fileSlug = stripSlashes(simplifySlug(file.slug!))
       const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug
-      const folderParts = folderSlug.split(path.posix.sep)
       const fileParts = fileSlug.split(path.posix.sep)
       const isDirectChild = fileParts.length === folderParts.length + 1
-      return prefixed && isDirectChild
+
+      if (!prefixed) {
+        return
+      }
+
+      if (isDirectChild) {
+        allPagesInFolder.push(file)
+      } else if (options.showSubfolders) {
+        const subfolderSlug = joinSegments(
+          ...fileParts.slice(0, folderParts.length + 1),
+        ) as FullSlug
+        const pagesInFolder = allPagesInSubfolders.get(subfolderSlug) || []
+        allPagesInSubfolders.set(subfolderSlug, [...pagesInFolder, file])
+      }
     })
+
+    allPagesInSubfolders.forEach((files, subfolderSlug) => {
+      const hasIndex = allPagesInFolder.some(
+        (file) => subfolderSlug === stripSlashes(simplifySlug(file.slug!)),
+      )
+      if (!hasIndex) {
+        const subfolderDates = files.sort(byDateAndAlphabetical(cfg))[0].dates
+        const subfolderTitle = subfolderSlug.split(path.posix.sep).at(-1)!
+        allPagesInFolder.push({
+          slug: subfolderSlug,
+          dates: subfolderDates,
+          frontmatter: { title: subfolderTitle, tags: ["folder"] },
+        })
+      }
+    })
+
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = ["popover-hint", ...cssClasses].join(" ")
     const listProps = {
