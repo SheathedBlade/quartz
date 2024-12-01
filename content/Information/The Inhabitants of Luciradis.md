@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-27T21:55:20.2020-04:00
+last-modified: 2024-12-01T17:40:14.1414-05:00
+comments: false
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
 

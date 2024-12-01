@@ -1,7 +1,8 @@
 ---
 date: 2023-10-13T20:27:21.2121-04:00
-last-modified: 2023-10-15T04:54:49.4949-04:00
+last-modified: 2024-12-01T17:42:13.1313-05:00
 description: Souls are wont to drift towards the luminescent gates that stands between them and their fate. However, on this day, the secretary chanced to glance at a new, weary soul. A soul whose presence defied the nature of life and death, looking in horror at the others in line.
+comments: true
 ---
 ***Appearances:*** [[Arzen Lynos]], [[Lucien Demeri]]  
 

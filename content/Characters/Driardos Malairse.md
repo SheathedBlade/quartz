@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-01T22:56:11.1111-04:00
+last-modified: 2024-12-01T17:36:10.1010-05:00
+comments: false
 ---
 *Internal Census of the Luxor Citadel*  
 *Stargazer's 16th, 10110 ASC (16/05/10110) -- Knowledge Base edits made by K. Myrai*

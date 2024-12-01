@@ -1,7 +1,8 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-01T22:05:23.2323-04:00
+last-modified: 2024-12-01T17:40:59.5959-05:00
 description: '"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."'
+comments: false
 ---
 *"Where everything starts, and everything ends; It is the genesis of change upon Luciradis."*  
 *Excerpt from 'The Musings of Fate', Luxori Covenant*

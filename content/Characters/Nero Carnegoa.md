@@ -1,6 +1,7 @@
 ---
 date: 2024-06-01T22:54:23.2323-04:00
-last-modified: 2024-06-01T22:57:10.1010-04:00
+last-modified: 2024-12-01T17:36:42.4242-05:00
+comments: false
 ---
 *Convergence's 16th, 10110 ASC (16/12/10110) -- Knowledge Base entry made by K. Myrai*
 ## Basic Info

@@ -1,6 +1,7 @@
 ---
 date: 2024-02-09T02:03:00.000-05:00
-last-modified: 2024-05-24T20:31:15.1515-04:00
+last-modified: 2024-12-01T17:37:53.5353-05:00
+comments: false
 ---
 *The below details the most up-to-date listing of materials in Luciradis, both artificial and natural.*
 

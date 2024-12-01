@@ -1,6 +1,7 @@
 ---
 date: 2023-09-24T17:06:31.3131-04:00
-last-modified: 2024-06-01T22:45:38.3838-04:00
+last-modified: 2024-12-01T17:36:12.1212-05:00
+comments: false
 ---
 *Internal Census of Galaderyn*
 ## Basic Info

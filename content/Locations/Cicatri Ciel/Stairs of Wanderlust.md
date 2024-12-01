@@ -1,7 +1,8 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-09-24T00:13:46.4646-04:00
+last-modified: 2024-12-01T17:41:06.066-05:00
 description: '"Souls climb up these sacred steps to meet with the gatekeeper, either to receive the ability to walk once more, or become one with the world."*'
+comments: false
 ---
 *"Souls climb up these sacred steps to meet with the gatekeeper, either to receive the ability to walk once more, or become one with the world."*  
 *Excerpt from "The Advent of Ascension", Luxori Covenant*

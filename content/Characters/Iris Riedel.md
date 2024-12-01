@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-10-16T15:30:51.5151-04:00
+last-modified: 2024-12-01T17:36:01.011-05:00
+comments: false
 ---
 *Internal Census of Terystal*
 ## Basic Info
