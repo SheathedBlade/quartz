@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:34:10.1010-05:00
+last-modified: 2024-12-01T18:07:49.4949-05:00
 description: Saria is the daughter of Orsilus of Arodraenix, the current draconic ruler of the skies taking root in the Grandiose Peaks, and an unknown female human. Saria’s mother still eludes us, however recent investigations confirmed her allegiance to the Azamuku Domain, as there were reports of a dragon descending onto the Amber Clifftops multiple times. Regardless, hers and Orsilus’s eloping birthed the first draconic half-breed in known existence.
 socialImage: _Attachments_/wayward_saria.webp
 comments: false
@@ -152,4 +152,6 @@ Shimmering Call is a spell reserved for the Avatar of the Shimmering Wings, as i
 
 #### Transformation - Draconic Ascension
 
-Saria's Transformation allows her to grow into a dragon of considerable size, towering over our castle walls with ease. In this state, Saria forgoes her lance in favor of her claws and flames. In this form, she commands the full might of the Shimmering Wings, enhancing the aforementioned invocations. Violet Flames serve to enhance her claws as well as her breath of fire. Shimmering Call noticeably increases in range, as her cry can be heard from several battalions.
+Saria's Transformation allows her to grow into a dragon of considerable size, towering over our castle walls with ease. In this state, Saria forgoes her lance in favor of her claws and flames. In this form, she commands the full might of the Shimmering Wings, enhancing the aforementioned invocations. Violet Flames serve to enhance her claws as well as her breath of fire. Shimmering Call noticeably increases in range, as her cry can be heard from several battalions.  
+
+![[shimmering_wings.webp]]*Credit: @Anderson_M0311*
