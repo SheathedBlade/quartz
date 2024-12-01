@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-06-01T21:16:08.088-04:00
+last-modified: 2024-12-01T17:20:50.5050-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 ---
 *Internal Census of the Stalwryn Kingdom*  
@@ -69,7 +69,10 @@ Rietta has long, **caramel-colored hair**, with side bangs reaching to her shoul
 
 Rietta mainly dons her comfortable alchemist outfit, which consists of {torso clothing I know there's a lab coat-esque aesthetic with a vest}, **black, tight-fitting shorts** with **sheer tights** underneath, and {I'll have to think about boots}. For her work, she does carry around her **owl horn-rimmed glasses**, with a black frame with golden metal engravings. Rietta only uses her glasses for precise alchemical work.
 
-She is often seen with alchemical gadgets and concoctions, though a fairly recent addition to her arsenal is a very unique firearm that utilizes her alchemical compounds. The firearm dismantles into three parts for portability, and it can easily be put back together for a combat situation. She commonly stores the weapon into a inconspicuous bag, along with reserves of ammunition, in the form of steel bullets, and dangerous alchemical solutions that coat the bullet to give it special effects.
+She is often seen with alchemical gadgets and concoctions, though a fairly recent addition to her arsenal is a very unique firearm that utilizes her alchemical compounds. The firearm dismantles into three parts for portability, and it can easily be put back together for a combat situation. She commonly stores the weapon into a inconspicuous bag, along with reserves of ammunition, in the form of caladonic steel bullets, and dangerous alchemical solutions that coat the bullet to give it special effects.
+
+![[Aith_Merille_1.webp]]
+*Credit: @MonsterOfSukeP*  
 
 >*// K.M. edit //*  
 >While her alchemist outfit is her most commonly used one, Rietta often changes outfits in accordance to popular trends in Terystal, particularly dressing in fashion styles such as casual wear, formal wear, and cutesy clothing.
@@ -128,3 +131,8 @@ Together with the abundant essence from the [[Protean Concepts#The Convergence|C
 > 
 > This does mean Rietta needs to carry not only ammunition, but also refills of the compounds she creates. Fortunately for her, the compounds are easy to make through her powers of the Convergence.
 
+![[Aith_Merille_2.webp]]
+*Credit: @MonsterOfSukeP*  
+
+![[Aith_Merille_3.webp]]
+*Credit: @MonsterOfSukeP*
