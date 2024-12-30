@@ -69,7 +69,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     })
 
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-    const classes = ["popover-hint", ...cssClasses].join(" ")
+    const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
       sort: options.sort,
@@ -82,8 +82,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         : htmlToJsx(fileData.filePath!, tree)
 
     return (
-      <div class={classes}>
-        <article>{content}</article>
+      <div class="popover-hint">
+        <article class={classes}>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (
             <p>
