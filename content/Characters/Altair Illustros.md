@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-01T17:36:19.1919-05:00
+last-modified: 2024-12-30T20:03:43.4343-05:00
 comments: false
 ---
 *Internal Census of Luxor Citadel*
@@ -17,7 +17,7 @@ comments: false
 - Occupation:
 - Relationships:
 
-## Protean Essence
+## Empyrean Essence
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |
