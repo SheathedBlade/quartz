@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-30T20:06:50.5050-05:00
+last-modified: 2024-12-01T17:36:47.4747-05:00
 description: Rietta is an elf born into a family of merchants, a rare occupation held in the Ferros Republic. A curious and experimental person, Rietta is fascinated with the limitless possibilities of alchemy, and so she became a reputable but obscure alchemist, never flaunting her profession, but always willing to help those who need her services.
 comments: false
 ---
@@ -28,9 +28,9 @@ _* -  Stalwryn's internal census was conducted when she was 18 years_
 _** - Rietta was born as an industrious elf, but was raised to the status of a sovereign elf_  
 _*** - Her previous allegiance was to the_ [[Stalwryn Kingdom]]
 
-## Empyrean Essence
+## Protean Essence
 
-*The below information are results from testing the individual of their "empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                      |
 | ---------------: | :----------------------------------------- |
@@ -54,14 +54,14 @@ _*** - Her previous allegiance was to the_ [[Stalwryn Kingdom]]
 
 Rietta was born into a family of merchants, a rare occupation for elves, but necessary nonetheless to facilitate trade inside and out of the isolated haven of [[Galaderyn]]. At the time of her birth, her parents were settled in the territory of the [[Stalwryn Kingdom]], specifically in the small village of [[Lyntoa Village|Lyntoa]]. She grew up as a mischievous child, always getting involved with antics with the other children in the village, much to the dismay of the elders.
 
-At the age of 14, Rietta and her parents temporarily relocated from Lyntoa Village to the Stalwryn Kingdom proper. It is during her stay inside the walls of the Stalwryn Kingdom that she developed a passion for not only business, but also alchemy. In her free time, Rietta likes to stay at the local apothecary, where individuals blessed with the powers of the [[Empyrean Concepts#The Convergence|Convergence]] do their best work. Here, she became an apprentice to an alchemist, seeking to indulge in her passion. Because of the nature of the craftsmanship of standard-issue Stalwryn weaponry and armor, the apothecary and the forge often worked together, which meant Rietta often had access to both facilities.
+At the age of 14, Rietta and her parents temporarily relocated from Lyntoa Village to the Stalwryn Kingdom proper. It is during her stay inside the walls of the Stalwryn Kingdom that she developed a passion for not only business, but also alchemy. In her free time, Rietta likes to stay at the local apothecary, where individuals blessed with the powers of the [[Protean Concepts#The Convergence|Convergence]] do their best work. Here, she became an apprentice to an alchemist, seeking to indulge in her passion. Because of the nature of the craftsmanship of standard-issue Stalwryn weaponry and armor, the apothecary and the forge often worked together, which meant Rietta often had access to both facilities.
 
 At the end of her apprenticeship, as a token to herself, Rietta commissioned the head blacksmith, {blacksmith name here}, for a firearm in which she can use her alchemical solutions to infuse the projectiles with special properties. The smith graciously accepted her request, and crafted a potent, long-range firearm that gives room for Rietta's alchemical compounds to infuse the bullets before leaving the barrel. This, though, was given as a gift, free of charge, to Rietta upon her graduation from being an apprentice.
 
 >*// K.M. edit //*  
 >What Rietta had received is a weapon that is now known as a **semi-automatic rifle** in Nova Ciel. There are compartments in which she can insert containers filled with alchemical solutions, which allows her to fire bullets infused with the solutions to inflict various effects on her target.
 
-It is also at this time where our physicians have confirmed the **empyrean essence** of Rietta, confirming her status as an Ascendant of the [[Empyrean Concepts#The Navigator|Navigator]]. For personal reasons, Rietta's parents requested this information be private until they, as a family, arrive back to Galaderyn. It is understandable, however, given the structure of society within the Republic. The class structure allows for those who are officially identified as Ascendants of the Navigator to be instantly given the status of **sovereign elves**. It would be a boon for this family, as they started out as **industrious elves**. As such, the quality of life afforded to sovereign elves would immensely help the family in terms of financial status and influence as merchants.
+It is also at this time where our physicians have confirmed the **protean essence** of Rietta, confirming her status as an Avatar of the [[Protean Concepts#The Navigator|Navigator]]. For personal reasons, Rietta's parents requested this information be private until they, as a family, arrive back to Galaderyn. It is understandable, however, given the structure of society within the Republic. The class structure allows for those who are officially identified as Avatars of the Navigator to be instantly given the status of **sovereign elves**. It would be a boon for this family, as they started out as **industrious elves**. As such, the quality of life afforded to sovereign elves would immensely help the family in terms of financial status and influence as merchants.
 ## Appearance
 
 Rietta is a young girl with pointed ears and fair skin. She also has a slender frame, which is not unexpected of someone whose job is to foray and gather materials in the wild. Her bust size is measured to be D/E (US/JP). One can expect her youthful appearance to stay consistent, as elves tend to retain their young adult look up until they reach the last quarter of their lifespans. Generally, an elf's total lifespan is an average of 8000 years.
@@ -111,9 +111,9 @@ When it comes down to business, however, Rietta is very crafty and cunning, hone
 
 ### Magical Combat
 
-Rietta is very proficient at the manipulation of water, a trait an Ascendant of the Navigator would surely possess. To further enhance her concentration of her invocations, she wields a custom-made staff, gifted from the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The below are some of her most notable invocations:
+Rietta is very proficient at the manipulation of water, a trait an Avatar of the Navigator would surely possess. To further enhance her concentration of her invocations, she wields a custom-made staff, gifted from the senior manawards of the [[Factions of Luciradis#Ferros Republic|Ferros Republic]]. The below are some of her most notable invocations:
 #### Scalding Flood
-This spell combines the effects of the basic "Create: Fire" and "Create: Water" invocations and improves upon it, shooting out a flood of scalding brine water, burning the target in the process. Using this spell in particular is decently draining on the average user, but comes as naturally as breathing for Ascendants of the Navigator.
+This spell combines the effects of the basic "Create: Fire" and "Create: Water" invocations and improves upon it, shooting out a flood of scalding brine water, burning the target in the process. Using this spell in particular is decently draining on the average user, but comes as naturally as breathing for Avatars of the Navigator.
 
 #### Aquatic Veil
 Rietta generates a barrier, made of water and shards of ice, that reflects any projectiles that come into contact with it. Objects that are already inside this barrier can be moved out of it, but the opposite doesn't occur, as objects trying to enter the barrier from the outside will be rejected. Constant attention to this invocation is key for an impenetrable barrier, but projectiles that hit the barrier will take a toll on the user's stamina.
@@ -125,7 +125,7 @@ Rietta generates crude, watery decoys to distract the target, which can take on 
 
 Despite being very talented as an invoker, Rietta opts for a more niche career: **alchemy**. As a curious and experimental individual, she likes the complexity that alchemy introduces. And there are benefits to pursuing this craft in general, one being that products made from alchemy are made in advance. This means that, in combat, there is no cost to her stamina for using these items, as she will have already spent the stamina needed to create the items in question.
 
-Together with the abundant essence from the [[Empyrean Concepts#The Convergence|Convergence]] and the skills from being the Navigator's Ascendant, she is able to concoct magical compounds through the precise handling of fluids, using very unique recipes unknown to the common alchemist. These compounds can vary from flammable fluids to corrosive compounds. Only Rietta knows the effects of each of her potions.
+Together with the abundant essence from the [[Protean Concepts#The Convergence|Convergence]] and the skills from being the Navigator's Avatar, she is able to concoct magical compounds through the precise handling of fluids, using very unique recipes unknown to the common alchemist. These compounds can vary from flammable fluids to corrosive compounds. Only Rietta knows the effects of each of her potions.
 
 > *// K.M. edit //*  
 > To supplement her knowledge of alchemy on the battlefield, Rietta uses her rifle in tandem with her alchemical compounds to produce bullets infused with various destructive properties, enabling her to be very versatile in any situation.

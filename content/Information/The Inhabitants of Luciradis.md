@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-30T22:45:46.4646-05:00
+last-modified: 2024-12-01T17:40:14.1414-05:00
 comments: false
 ---
 *Published by the Congregation of Academia, Luxor Citadel*
@@ -15,9 +15,9 @@ The akumaros are a rare race; not native to Cicatri Ciel, but from the southern 
 >*// K.M. edit //*  
 >The ancestral homeplace of the akumaros is in the frigid mountains of **Gokan**, where the developed city of **[[Ifuri]]** takes root. Before the **Cicatri Emigration**, Ifuri was just one of many nomadic Akumari settlements. One could say an Ifurian akumari is much more traditional than those one would find at Gensōkasu.
 
-The most defining physical characteristic of an akumari is their pair of horns protruding from their head. While the style of horn can vary, this will always be the first thing anyone can use to identify an Akumari. Generally, the color of their horns stay consistent to darker tones, such as black, brown, and deep red.
+The most defining physical characteristic of an Akumari is their pair of horns protruding from their head. While the style of horn can vary, this will always be the first thing anyone can use to identify an Akumari. Generally, the color of their horns stay consistent to darker tones, such as black, brown, and deep red.
 
-The akumaros have a natural affinity to cold weather, their skin having been evolved to retain the individual's body heat as much as possible. Of course, extreme cold weather would require them to wear conventional winter gear, but chilly weather is not enough for an akumari to wear much more than a jacket. This is an evolutionary trait developed from the nomadic lifestyle of the ancient akumari.
+The akumaros have a natural affinity to cold weather, their skin having been evolved to retain the individual's body heat as much as possible. Of course, extreme cold weather would require them to wear conventional winter gear, but chilly weather is not enough for an akumari to wear much more than a jacket.
 
 ## Elf
 
@@ -33,11 +33,9 @@ The ruling faction that the majority of elves associate with is the [[Factions o
 
 > Luxori is both a singular and plural noun.
 
-The Luxori are a race with powers descended from the Concept of the [[Empyrean Concepts#The Illuminator|Illuminator]]. Originally, these individuals were humans from the time before **the Scarring**, but with the Illuminator's magic, the humans that followed the Illuminator during the Scarring obtained a natural talent for light-based magic. This large community of humans would become the Luxori, beginning its roots on a landmass named after them: [[Luxor Citadel|Luxor]].
+The Luxori are a race with powers descended from the Concept of the [[Protean Concepts#The Illuminator|Illuminator]]. Originally, these individuals were humans from the time before **the Scarring**, but with the Illuminator's magic, the humans that followed the Illuminator during the Scarring obtained a natural talent for light-based magic. This large community of humans would become the Luxori, beginning its roots on a landmass named after them: [[Luxor Citadel|Luxor]].
 
-The appearance of a Luxori bears a striking resemblance to that of a human's, but the Luxori have **symmetrical dark markings** all over their torso and limbs, with some individuals being born with some markings on the face. This is a rare, unique trait of the Luxori, an evolutionary development borne from subsequent generations of Luxori. These dark markings on the body enhances the powers of the Illuminator, **illuminating these dark markings up to a vibrant, golden color** whenever the Luxori individual would use light-based invocations. The intensity of the brightness of the color would depend on the strength of the invocation being cast.
-
-The Luxori think themselves as superior beings, given that the source of their powers originate from not the common roots of magic, but from Luciradis itself. Light-based invocations are certainly rare to other races, and through observation, those that share an ancestry with the original Luxori that followed the Illuminator were granted, from birth, the ability to conjure light invocations. Thus, many accomplished healers are also Luxori, or of Luxori descent.
+The appearance of a Luxori bears a striking resemblance to that of a human's, but the Luxori have **symmetrical dark markings** all over their torso and limbs, with some individuals being born with some markings on the face. This is a unique trait of the Luxori, an evolutionary development borne from subsequent generations of Luxori. These dark markings on the body enhances the powers of the Illuminator, **illuminating these dark markings up to a vibrant, golden color** whenever the Luxori individual would use light-based invocations. The intensity of the brightness of the color would depend on the strength of the invocation being cast.
 
 ## Terrakin
 
@@ -63,4 +61,4 @@ The dragons are an extraterrestrial, intelligent race of winged, scaled beasts. 
 
 > The original nomenclature, as one of our researchers found out, is "Hryvernus", or "Hryverni" as plural.
 
-Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Empyrean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).
+Of the existing dragons, there are several clans of dragons that exist, similar to tribes or nations. The most dominant clan is the Arodraenix clan, which is aptly named for the ancient dragon, Arodraenix, the Concept of the [[Protean Concepts#The Shimmering Wings|Shimmering Wings]]. This clan secludes itself on top of the [[Grandiose Peaks]], located on the western island of Cicatri Ciel (which is home to the [[Gensōkyo]]).

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-22T11:51:47.4747-04:00
-last-modified: 2024-12-30T20:05:18.1818-05:00
+last-modified: 2024-12-01T17:36:10.1010-05:00
 comments: false
 ---
 *Internal Census of the Luxor Citadel*  
@@ -22,9 +22,9 @@ comments: false
 	- [[Lucien Demeri]]: Co-member of the original party of heroes
 	- [[Nero Carnegoa]]
 
-## Empyrean Essence
+## Protean Essence
 
-*The below information are results from testing the individual of their "empyrean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
+*The below information are results from testing the individual of their "protean essence", or the essence of the associated Concept. This is sorted in order by the associated calendar month they are known for (except for the Creator).*
 
 |      **Concept** | **Amount of Essence**                       |
 | ---------------: | :------------------------------------------ |
@@ -57,10 +57,10 @@ Driardos sports a slender longsword for close combat, while using his arcane sta
 ## Confidential Information
 *This is information newly discovered about Driardos Malairse by the Wareylt Labs incident response team.*
 
-Driardos Malairse is revealed to be the original identity of the Concept of the [[Empyrean Concepts#The Seer|Seer]], as well as his true name as a mortal in ancient times. Driardos was also the first and only Arcis Princeps of the Luxor Citadel, as his hatred for all the Concepts fueled his Ascendant to become functionally immortal. In all his Ascendants, Driardos was the prevailing personality, completely blocking out whoever the Ascendant was before their awakening. This allowed Driardos to keep ruling the [[Luxor Citadel]] under a different guise.
+Driardos Malairse is revealed to be the very manifestation of the Concept of the [[Protean Concepts#The Seer|Seer]], as well as his true name as a mortal in ancient times. Driardos was also the first and only Arcis Princeps of the Luxor Citadel, as his hatred for all the Concepts fueled his Avatar to become functionally immortal. In all his Avatars, Driardos was the prevailing personality, completely blocking out whoever the Avatar was before their awakening. This allowed Driardos to keep ruling the [[Luxor Citadel]] under a different guise.
 
 Driardos' goal is the same as it was during **the Scarring**: to gain complete and total control across Luciradis.
 
 However, since the decline of the old guard, and the fall of Luxor Citadel, Driardos have developed a personal grudge against [[Arzen Lynos]] for being a persistent obstacle in his plans. Thus, all his various descendants, however far into the future, will eventually fold to Driardos to cause Ren untold suffering. From the moment of his defeat preceding the fall of Luxor Citadel, Ren and Driardos were bound by a thread of fate, destined to meet and fight again.
 
-Driardos would eventually fall back into his remnants at the **Overgrowth Incident of [[Terystal#Wareylt Labs|Wareylt Labs]]** in [[Terystal]], where **Ren** would acquire all the remnants of the Concepts and use up its power to create a spiritual blade capable of consigning the soul to oblivion. Driardos' overwhelming personality would never again overpower the individual, allowing the last known Ascendant of the Seer, **[[Iris Riedel]]**, to regain her senses use its powers freely.
+Driardos would eventually fall back into his remnants at the **Overgrowth Incident of [[Terystal#Wareylt Labs|Wareylt Labs]]** in [[Terystal]], where **Ren** would acquire all the remnants of the Concepts and use up its power to create a spiritual blade capable of consigning the soul to oblivion. Driardos' overwhelming personality would never again overpower the individual, allowing the last known Avatar of the Seer, **[[Iris Riedel]]**, to regain her senses use its powers freely.
